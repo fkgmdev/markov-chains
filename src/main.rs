@@ -70,8 +70,10 @@ fn main() {
         fs::write("data.txt", "").unwrap();
     }
 
-    for i in list {
-        let options = i.split("-").collect();
+    let length = list.len();
+    for (index, line) in list.iter().enumerate() {
+        let options: Vec<&str> = line.split("-").collect();
+        print!("Processing: {}/{} {} {}: ", index, length, &options[0], &options[1]);
         analyze(vowels, consonants, options);
     }
     let duration = start.elapsed();
