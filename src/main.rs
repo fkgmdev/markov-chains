@@ -2,6 +2,7 @@
 use itertools::Itertools;
 use std::fs;
 use std::env::args;
+use std::time::Instant;
 
 fn is_vowel(a: char, vowels: &str, consonants: &str) -> bool {
     let lower = a.to_lowercase().next().unwrap_or(a);
@@ -57,6 +58,7 @@ fn analyze(vowels: &str, consonants: &str, args: Vec<&str>) {
 }
 
 fn main() {
+    let start = Instant::now();
     let vowels = "aeiouäöüéèêëîïôûùı";
     let consonants = "bcdfghjklmnpqrstvwxyzßñç";
 
@@ -72,5 +74,6 @@ fn main() {
         let options = i.split("-").collect();
         analyze(vowels, consonants, options);
     }
-
+    let duration = start.elapsed();
+    println!("Done! in {:?}", duration);
 }
