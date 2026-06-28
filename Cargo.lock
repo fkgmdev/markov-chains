@@ -18,7 +18,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "words"
+name = "markov-chains"
 version = "0.1.0"
 dependencies = [
  "itertools",
