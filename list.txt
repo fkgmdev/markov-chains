@@ -1,0 +1,6 @@
+rawdata/turkish/nutuk.txt-Turkish-Nutuk
+rawdata/turkish/aigenturkish.txt-Turkish-Ai generated
+rawdata/english/moby.txt-English-Moby dick
+rawdata/english/aimsg.txt-English-Ai message
+rawdata/german/faust.txt-German-Faust
+rawdata/german/mabuse.txt-German-Mabuse

@@ -2,7 +2,6 @@
 use itertools::Itertools;
 use std::fs;
 use std::env::args;
-use std::process;
 
 fn is_vowel(a: char, vowels: &str, consonants: &str) -> bool {
     let lower = a.to_lowercase().next().unwrap_or(a);
@@ -14,19 +13,11 @@ fn is_vowel(a: char, vowels: &str, consonants: &str) -> bool {
     }
     false
 }
-fn main() {
-    let vowels = "aeiouäöüéèêëîïôûùı";
-    let consonants = "bcdfghjklmnpqrstvwxyzßñç";
 
-    let args: Vec<String> = args().collect();
-    if args.len() < 4 {
-        eprintln!("Usage: words <path> Language Comment -test ");
-        process::exit(1);
-    }
-
-    let a = fs::read_to_string(&args[1]).unwrap();
-    let language = &args[2];
-    let comment = &args[3];
+fn analyze(vowels: &str, consonants: &str, args: Vec<&str>) {
+    let a = fs::read_to_string(&args[0]).unwrap();
+    let language = &args[1];
+    let comment = &args[2];
     let mut cc = 0;
     let mut cv = 0;
     let mut vc = 0;
@@ -53,7 +44,6 @@ fn main() {
             }
         }
     }
-    drop(a);
     let total = cc + cv + vc + vv;
     let ccp = (cc as f64 / total as f64) * 100.00;
     let cvp = (cv as f64 / total as f64) * 100.00;
@@ -61,9 +51,26 @@ fn main() {
     let vvp = (vv as f64 / total as f64) * 100.00;
     let ratio = (cons as f64 / vow as f64) * 100.00;
     println!("CC:{:.4}% CV:{:.4}% VC:{:.4}% VV:{:.4}% C/V:{:.4}%", ccp, cvp, vcp, vvp, ratio);
-    if args.len() != 5 || args[4] != "-print" {
-        let write = format!("{language} CC:{:.4}% CV:{:.4}% VC:{:.4}% VV:{:.4}% C/V:{:.4}% Comments: {comment}\n", ccp, cvp, vcp, vvp, ratio);
-        let write = fs::read_to_string("data.txt").unwrap() + &write;
-        fs::write("data.txt", write).unwrap();
+    let write = format!("{language} CC:{:.4}% CV:{:.4}% VC:{:.4}% VV:{:.4}% C/V:{:.4}% Comments: {comment}\n", ccp, cvp, vcp, vvp, ratio);
+    let write = fs::read_to_string("data.txt").unwrap() + &write;
+    fs::write("data.txt", write).unwrap();
+}
+
+fn main() {
+    let vowels = "aeiouäöüéèêëîïôûùı";
+    let consonants = "bcdfghjklmnpqrstvwxyzßñç";
+
+    let contents = fs::read_to_string("list.txt").unwrap();
+    let list: Vec<&str> = contents.lines().collect();
+
+    let args: Vec<String> = args().collect();
+    if args.len() == 2 && args[1] == "redo" {
+        fs::write("data.txt", "").unwrap();
     }
+
+    for i in list {
+        let options = i.split("-").collect();
+        analyze(vowels, consonants, options);
+    }
+
 }

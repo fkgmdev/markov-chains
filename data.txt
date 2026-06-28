@@ -1,6 +1,6 @@
 Turkish CC:12.0489% CV:46.3965% VC:41.1126% VV:0.4419% C/V:131.3470% Comments: Nutuk
-Turkish CC:13.4094% CV:45.5268% VC:40.8600% VV:0.2038% C/V:137.3775% Comments: ai generated
-English CC:24.3967% CV:35.2482% VC:35.1464% VV:5.2087% C/V:167.0711% Comments: moby dick
-English CC:23.3489% CV:35.6237% VC:35.1568% VV:5.8706% C/V:163.2948% Comments: ai message
-German CC:25.2971% CV:33.1499% VC:34.9896% VV:6.5634% C/V:175.4920% Comments: faust
-German CC:23.3498% CV:34.2453% VC:35.6651% VV:6.7398% C/V:160.7827% Comments: mabuse
+Turkish CC:13.4094% CV:45.5268% VC:40.8600% VV:0.2038% C/V:137.3775% Comments: Ai generated
+English CC:24.3967% CV:35.2482% VC:35.1464% VV:5.2087% C/V:167.0711% Comments: Moby dick
+English CC:23.3489% CV:35.6237% VC:35.1568% VV:5.8706% C/V:163.2948% Comments: Ai message
+German CC:25.2971% CV:33.1499% VC:34.9896% VV:6.5634% C/V:175.4920% Comments: Faust
+German CC:23.3498% CV:34.2453% VC:35.6651% VV:6.7398% C/V:160.7827% Comments: Mabuse
