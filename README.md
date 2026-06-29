@@ -1,5 +1,5 @@
 # PLACEHOLDER TITLE (for now, i hope)
-This is a project of mine, inspired by a Veritasium video where Andrey Markov's work on phonotactics. Basically the guy took a russian poem and analyzed it as such:
+This is a project of mine, inspired by a Veritasium video where Andrey Markov's work on phonotactics is mentioned. Basically the guy took a russian poem and analyzed it as such:
 - What's the probability of a consonant following a vowel?
 - Or a vowel following a consonant?
 - Or a double consonant?
