@@ -43,7 +43,7 @@ git clone https://github.com/fkgmdev/gutenberg-fetcher.git
 ```
 
 Go into the last repo and copy over the .txt files into the first repo in the following structure:
-
+```folder structure
 markov-chains
 |
 |__rawdata
@@ -52,6 +52,7 @@ markov-chains
     |
     |_french
     | |_all french .txt files
+```
 
 and so on...
 
