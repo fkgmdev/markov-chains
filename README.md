@@ -55,6 +55,7 @@ markov-chains
 ```
 
 and so on...
+***DISCLAIMER: You would get slightly different results from me, because all .txt files have a solid amount of Project Gutenberg licensing stuff etc. I would recommend trimming the files by hand or make a script for this somehow (i made one in rust)***
 
 Then, build the rust project:
 ```bash
