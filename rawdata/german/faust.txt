@@ -1,3 +1,51 @@
+
+
+
+
+Faust:
+Der Tragödie erster Teil
+
+by Johann Wolfgang von Goethe
+
+
+Contents
+
+ Zueignung
+ Vorspiel auf dem Theater
+ Prolog im Himmel
+
+ Nacht
+ Vor dem Tor
+ Studierzimmer
+ Studierzimmer
+ Auerbachs Keller in Leipzig
+ Hexenküche
+ Straße (I)
+ Abend
+ Spaziergang
+ Der Nachbarin Haus
+ Straße (II)
+ Garten
+ Ein Gartenhäuschen
+ Wald und Höhle
+ Gretchens Stube
+ Marthens Garten
+ Am Brunnen
+ Zwinger
+ Nacht. Straße vor Gretchens Türe
+ Dom
+ Walpurgisnacht
+ Walpurgisnachtstraum
+ Trüber Tag. Feld
+ Nacht, offen Feld
+ Kerker
+
+
+
+
+Zueignung
+
+
 Ihr naht euch wieder, schwankende Gestalten,
 Die früh sich einst dem trüben Blick gezeigt.
 Versuch ich wohl, euch diesmal festzuhalten?
@@ -7110,3 +7158,7 @@ Her zu mir!
 
 STIMME (von innen, verhallend).
 Heinrich! Heinrich!
+
+
+
+

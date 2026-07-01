@@ -73,8 +73,8 @@ fn analyze(vowels: &str, consonants: &str, args: Vec<&str>) {
 
 fn main() {
     let start = Instant::now();
-    let vowels = "aeiouäöüéèêëîïôûùı";
-    let consonants = "bcdfghjklmnpqrstvwxyzßñç";
+    let vowels = "aeiouäöüéèêëîïôûùıàâæœ";
+    let consonants = "bcdfghjklmnpqrstvwxyzßñçğş";
 
     let contents = fs::read_to_string("list.txt").unwrap();
     let list: Vec<&str> = contents.lines().collect();
