@@ -1,0 +1,29 @@
+Ankara
+KORONAVİRÜS HABERLERİ
+- KORONAVİRÜS NEDİR: Bir bakışta koronavirüs salgını
+- NE YAPMALIYIZ: Koronavirüsten nasıl korunuruz
+- A'DAN Z'YE KOVİD-19 REHBERİ: Koronavirüsle ilgili aradığınız tüm cevaplar
+- RAKAMLARLA: Ülke ülke koronavirüs istatistikleri
+- SAĞLIK BAKANLIĞI VERİLERİ: Türkiye günlük ve genel koronavirüs tablosu
+- ŞÜPHELERİNİZ Mİ VAR: Sağlık Bakanlığı online koronavirüs kontrol uygulaması
+Sağlık Bakanlığı tarafından güncellenen, patoloji laboratuvarlarında alınacak enfeksiyon kontrol önlemlerine göre, salgının toplumda yayılmasını önlemek için elektif (seçmeli) ameliyatların ertelenmesi, sadece acil ameliyatların yapılması gerektiği belirtildi.
+Patoloji laboratuvarına gelen örnek sayısının azaltılması gerektiği vurgulanan enfeksiyon önlemlerinde, "Kovid-19 için solunum sistemi örnekleri başta olmak üzere, kan ve diğer vücut sıvıları ve dışkı, potansiyel risk taşımaktadır. Bu nedenle olası/kesin Kovid-19 vakasına, gerekli ise histopatolojik inceleme yapılmalıdır." ifadesi kullanıldı.
+"Tüm histopatolojik işlemlerde enfeksiyon kontrol önlemleri alınmalıdır." uyarısını yapan Bakanlık, işlem sırasında görev alacak tüm sağlık personeline enfeksiyon kontrol kuralları, kişisel koruyucu ekipman (KKE) kullanımı ve el hijyeni konusunda eğitim verilmesi, işlemlerin belirlenmiş alanda mümkün olduğu kadar az kişi ile yapılması gerektiğini kaydetti.
+Güncellenen önlemler arasında laboratuvarlarda Kovid-19 bulaşı açısından yüksek risk taşıyan materyal ve işlemler, "alkol veya formaldehid ile tesbit edilmemiş olan bronş lavajı, ince iğne aspirasyon örnekleri, kan, kemik iliği aspiratı hazırlanması ve diğer vücut sıvıları, intraoperatif konsültasyon veya 'frozen' inceleme için gönderilen taze doku örnekleri, intraoperatif konsültasyon inceleme dışında tespit edilmeden laboratuvara gönderilen operasyon materyalleri" olarak sıralandı.
+Bakanlık, bu riski bulunduran materyallerin diseksiyonla incelenmesi ve incelemeye hazırlanması, bu materyallerden yapılacak DNA, RNA işlemleri sırasında görevli hekim ve personelin kişisel koruyucu ekipman, su geçirmez önlük, N95 /FFP2 maske, gözlük/yüz koruyucu ve eldiven kullanması, işlemlerin tercihen kabinde ve havalandırmalı ortamda yapılması gerektiğini bildirdi.
+Sağlık Bakanlığınca, "Pandemi döneminde, hasta başı sitolojik örnek yeterliliği değerlendirmesinden zorunlu olmadıkça kaçınılmalıdır." uyarısında bulunuldu.
+Güncellenen önlemler kapsamında, enjektör ile çekilen aspirasyon materyallerinin lama yayılması, aspirasyon preparatlarının havada veya sıcak hava ile kurutulması, sitolojik örnek hazırlanması ve bunlardan DNA, RNA eldesi, materyalin bulunduğu tüplerin kapaklarının açılması, materyalin kuvvetli çalkalama, karıştırma, vorteksleme, pipetleme, dilüsyon veya santrifüj işlemleri ile santrifüj sonrası süpernatanların ayrılmasının, riskli işlemler grubunda bulunduğu ve bulaş riski taşıdığı kaydedildi.
+İntraoperatif konsültasyon sırasında frozen kesit yapılan cihazların düzenli ve her inceleme sonrasında alkol ile temizlenmesi gerektiği vurgulandı.
+Bakanlık, söz konusu işlemlerin sınıf II biyogüvenlik kabinlerinde ve kişisel koruyucu ekipman, su geçirmez önlük, N95/FFP2 maske, gözlük/yüz koruyucu ve eldiven ile yapılması önerisinde bulundu.
+"Dezenfektanın temizlenen yüzeyde 1 dakika kalması sağlanmalı"
+Enfeksiyon kontrol önlemlerine göre, işlem sonrası yapılması gereken dezenfeksiyon işlemleri de şöyle sıralandı:
+"- Hastane dezenfeksiyonunda tercih edilen bir dezenfektan kullanılmalı.
+- Yer ve yüzey dezenfeksiyonunda, 1/100 sulandırılmış çamaşır suyu (Sodyum hipoklorit Cas No: 7681-52-9) ya da klor tablet kullanılmalı.
+- "Diseksiyon tezgahı dezenfeksiyonu için ise 1/10 sulandırılmış çamaşır suyu, klor tablet ya da yüzde 70'lik alkol kullanılmalı. Çalışılan materyal ile kontaminasyon olan diğer yüzeyler de benzer şekilde dezenfekte edilmeli. Dezenfektanın temizlenen yüzeyde en az 1 dakika kalması sağlanmalı.
+- Diğer alanlarda (mikroskop, idari alanlar, arşiv vb.) standart temizlik yapılmalı. Ancak lamların ve mikroskopların kontaminasyon riski bulunduğundan intraoperatif konsültasyon 'frozen' inceleme preparatlarının değerlendirilmesi ile sitoloji preparatlarının incelemesi sırasında eldiven kullanılmalı.
+- Sitolojik materyal kontaminasyonuna bağlı dezenfeksiyonda kontamine alan izole edilmeli. Cam kırıkları, maşa/forseps ile toplanmalı, dökülen sıvı materyal üzerine absorban madde (süzgeç kağıdı/talaş) örtülmeli, absorban üzerine dezenfektan dökülmeli, dezenfektanın en az 20 dakika kalması sağlanmalı.
+- Eğitim kurumlarında çoklu mikroskobik değerlendirmelerde maske kullanılmalı, ikiden çok kişiyle uzun süreli değerlendirmeden kaçınılmalı, ortamların sık sık havalandırılması sağlanmalı.
+- Temizlik yapan personel tıbbi maske, eldiven, su geçirmez önlük ve göz koruyucu kullanmalı.
+- Temiz ve kirli alan oluşturulmalı, işlem sırasında kullanılan tek kullanımlık malzemeler ve oluşan atıklar tıbbi atık kutusuna atılmalıdır.
+- İşlemler sırasında kişisel koruyucu ekipman olmadan bir temas gerçekleşmesi durumunda ilgili personel risk değerlendirmesi için Enfeksiyon Kontrol Komitesine yönlendirilmeli."
+Anadolu Ajansı web sitesinde, AA Haber Akış Sistemi (HAS) üzerinden abonelere sunulan haberler, özetlenerek yayımlanmaktadır. Abonelik için lütfen iletişime geçiniz.

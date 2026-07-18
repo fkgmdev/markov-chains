@@ -1,0 +1,13 @@
+İSTANBUL (AA) - Kaspersky araştırmasına göre, güvenlik araştırmacılarının daha fazla ayrıntı istediği şüpheli nesnelerin yüzde 72'sinin kötü amaçlı olduğu tespit edildi.
+Şirket açıklamasına göre, Kaspersky uzmanları, petabyte'larca global güvenlik istihbaratı verisine sahip Kaspersky Threat Intelligence Portal'a gelen taleplere ait anonim istatistikleri toplayıp analiz etti.
+Yapılan analizlerde, güvenlik araştırmacılarının daha fazla ayrıntı istediği şüpheli nesnelerin yüzde 72'sinin kötü amaçlı olduğu ve incelenmediği takdirde kurumsal güvenlik için risk teşkil ettiği belirlendi.
+Kurumlar gelen güvenlik uyarılarının ortalama yüzde 44'ünü incelemiyor. Analistlerin hangi uyarılarla ilgileneceklerini, hangilerini göz ardı edeceklerini dikkatli seçmeleri gerekiyor.
+Kaspersky Threat Intelligence Portal'dan toplanan anonim verilere göre, çoğu durumda hangi uyarıların inceleneceğine dair doğru karar veriliyor.
+Servis üzerinden gönderilen ve analiz edilen taleplerin çoğunda (10'da 7) kötü amaçlı nesneler tespit ediliyor. İnternet ile alakalı nesnelerde bunun oranı daha da yüksek gerçekleşti (alan adlarında yüzde 86, IP adreslerinde yüzde 75 ve URL'lerde yüzde 73).
+Dosyalarda ise oran az da olsa düşüyor. Bunların yalnızca yüzde 61'inin tehlikeli olduğu görülüyor.
+Genel olarak araştırmacılar ağlarındaki uç noktaların hangi kaynaklarla iletişim halinde olduğunu öğrenmeye ilgi gösteriyor. Toplam taleplerin yüzde 41'i bu kategoride yer alıyor.
+- "Güvenlik analistleri çok nadir hata yapıyor"
+IP adresi itibarı ve bunlara bağlı web siteleri ile dosyalar hakkındaki bilgilerden yararlanan güvenlik ekipleri kaynaklara erişimi kesmeye veya herhangi bir kaynakla tüm iletişimi engellemeye karar verebiliyor.
+Bunlara ek olarak, taleplerin 3'te biri (yüzde 31) sağlama dosyaları hakkında oluyor. Bu da analistlerin inceleme için dosya hakkında ek bilgiler (coğrafi dağılım, popülerlik ve diğer nesnelerle bağlantı ve benzeri) aradığı anlamına geliyor.
+Açıklamada görüşlerine yer verilen Kaspersky Teknoloji Çözümleri Ürün Yönetimi Grup Müdürü Anatoly Simonenko, istatistiklerin, kurumlardaki güvenlik analistlerinin risk teşkil eden ve ayrıntılı incelenmesi gereken uyarıları tespit ederken, çok nadir hata yaptığını gösterdiğini kaydetti.
+Hipotezlerin doğru olup olmadığını kontrol etmenin tek başına yeterli olmadığını aktaran Simonenko, "Vakalara daha hızlı müdahale etmek ve inceleme becerilerini artırmak için analistlerin tehdit hakkında daha geniş kapsamlı bilgiye hızla ulaşması gerekiyor. Tam da bu imkanı sunan tehdit istihbaratı, az kişiden oluşan güvenlik ekiplerine zaman kazandırıyor." değerlendirmesinde bulundu.

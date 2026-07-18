@@ -1,0 +1,28 @@
+Afetlere hazırlıklı elektrik sistemi, iklim değişikliyle mücadelenin parçası olabilir
+Kahramanmaraş merkezli depremler, birçok konu gibi elektrik sisteminin güçlendirilmesi konusunu da gündeme getirirken, afetlere karşı yeniden kurgulanan elektrik sisteminin iklim değişikliğiyle mücadelede de etkili olacağı öngörülüyor.
+İstanbul
+AA muhabirinin SHURA Enerji Dönüşümü Merkezi'nin "Doğal Afetler Karşısında Elektrik Sisteminin Güçlendirilmesi" başlıklı raporundan yaptığı derlemeye göre, "asrın felaketi" olarak nitelendirilen depremler, elektrik sisteminin sürekliliği ve doğru kurgulanmasının önemini bir kez daha ortaya koydu.
+Deprem felaketi nedeniyle enerji sektöründe, 2,3 milyar lirası kamuya ve 8,9 milyar lirası özel sektöre ait olmak üzere toplam 11 milyar 243 milyon lira hasar oluştuğu tahmin ediliyor.
+Söz konusu hasar ve bunun oluşturduğu ekonomik maliyetler, elektrik sisteminin çağdaş teknoloji ve dijitalleşen yöntemler doğrultusunda ihtiyaçlara göre yeniden kurgulanmasını ve tüketiciyi merkeze alan yeni bir üretim-tüketim yapısını içermesini gerekli kılıyor.
+Sistemin iklim değişikliğiyle birlikte büyüyen ve sıklaşan afetlere karşı dayanıklılığının ve güvenilirliğinin ele alınması gerekiyor.
+Bütüncül afet yönetimi stratejileri ve planlama ihtiyacı
+Rapora göre, elektrik sisteminin doğal afetlere karşı değişen oranlarda güvenlik açıkları bulunduğu dikkate alındığında, sistemin güvenilirliğini sağlamak için bütüncül afet yönetimi stratejileri ve planlama ihtiyacı ortaya çıkıyor. Bu stratejiler, ülkedeki en yaygın doğal afetlerin önceliklendirilmesiyle belirleniyor.
+Türkiye elektrik sistemi için risk oluşturan doğal afetlerin başında ise deprem geliyor.
+Doğal afetlere karşı sistemin sağlamlığını, altyapıyı güçlendirerek ve tasarımını iyileştirerek artırmak mümkün ancak bunun en çok risk taşıyan afetler baz alınarak planlanması gerekiyor. Bunun için de afetlerin olasılığı ve mekansal dağılımı ile bunların iklim değişikliğine bağlı potansiyel evrimi hakkında iyi ve etkili verilere sahip olmak gerekiyor. Böylece planlama, tehlikeli doğa olaylarının iletim ve dağıtım üzerindeki etkilerini asgariye indirebiliyor.
+Altyapı bakımının yanı sıra şebekenin yenilikçi teknolojilerle bütünleşmiş dağıtık bir yapıyla genişlemesi ve esnekliğinin sağlanması da sistemin direncini artırıyor.
+Afet durumlarında sistemin bir noktasındaki aksaklığın veya hasarın diğer noktalara etki etmemesi ya da etkinin asgariye indirilmesi için akıllı şebekelerin ve mikro şebekelerin artması önem arz ediyor.
+Bu noktada yenilenebilir dağıtık enerji kaynaklarıyla yerinde üretim, mikro şebekeler ve mobil üretim birimleri aracılığıyla dayanıklılığı artıracak bir unsur olarak ön plana çıkıyor.
+Şebekeye bağlı, sayaç arkası ya da şebeke dışı çalışabilen enerji depolama sistemleri ise şebeke arızalarında kritik işlevler için acil durum gücü sağlayabiliyor.
+Depolama sistemleriyle desteklenen dağıtık güneş ve rüzgar enerji santrallerinin yer aldığı bir mikro şebeke, dağıtım ve iletim şebekelerinin herhangi bir noktasındaki hasar durumunda kendini izole ederek elektrik üretimine devam ederken kesintisiz elektrik temin edilmesine imkan tanıyor.
+Bu nedenle, akıllı şebekeler, mikro şebekeler, gelişmiş ölçüm altyapısı, otomasyon, dronlar ve uzaktan algılama sistemleri gibi yeni teknolojilerin, elektrik sistemi güvenilirliğini artırmaya ve doğal afet sonrası oluşan risklerin azaltımında kullanılması öneriliyor.
+Elektrik sistemi yeni ihtiyaçları karşılayacak şekilde planlanmalı
+Doğal afetlere dirençli ve sürdürülebilir şehirler için binaların dayanıklı olmasının yanı sıra sıfır emisyonlu, yenilenen elektrik sistemine ve dijital teknolojilere uyumlu olarak tasarlanmaları da önem taşıyor.
+Depreme dayanıklı ve temiz enerji kaynaklarını verimli şekilde kullanan sıfır emisyonlu akıllı binaların, nihai enerji tüketiminin yüzde 26'sını gerçekleştiren konut sektörünün karbonsuzlaşmasında itici güç olacağı, enerji dönüşümünü de destekleyeceği öngörülüyor.
+Çatı üstü GES'lerin binaların üzerinde bulunduğu dikkate alındığında, yerleşim alanlarında doğru elektrik altyapısıyla birlikte üst yapının ve binaların da yeni ihtiyaçları karşılayacak şekilde planlanması ve uygulanması gerekiyor.
+Fay hatlarının yoğun olduğu bölgelerde yenilikçi sistemler yaygınlaştırılmalı
+Akıllı şebekeler, başta güneş ve rüzgar olmak üzere dağıtık enerji kaynakları ve bataryalarla bütünleşik mikro şebekeler, mobil enerji depolama sistemlerinin afetlere karşı daha dirençli bir şebeke sisteminin oluşturulmasında önemli faydalar sunabileceği belirtiliyor.
+Özellikle fay hatlarının yoğun olduğu il ve bölgelerde bu sistemlerin yaygınlaştırılması öneriliyor.
+Elektrik sisteminin afetlere hazırlıklı olması, dolaylı olarak iklim değişikliğinin etkilerinin azaltmasını da beraberinde getiriyor. Bunun için ise kapsayıcı mevzuat, doğru finansman mekanizmaları ve farkındalık ile teknik kapasitenin geliştirilmesi gerekiyor.
+İletim tarafında ise şebeke durumunun hızla değerlendirilip rapor edilmesini sağlayan geniş alan izleme sistemlerinin ve şebekedeki değişikliklere otomatik olarak tepki veren teknolojilerin kullanılması öneriliyor.
+Öte yandan, yeniden yapılanma ve enerji dönüşümüyle birlikte ortaya çıkacak yeni istihdam olanaklarının değerlendirilmesi, dönüşümden olumsuz etkilenen sektörler için tedbir alınması kapsamında gerekli adil dönüşüm ve sosyoekonomik politikaların oluşturulması kritik önem taşıyor.
+Anadolu Ajansı web sitesinde, AA Haber Akış Sistemi (HAS) üzerinden abonelere sunulan haberler, özetlenerek yayımlanmaktadır. Abonelik için lütfen iletişime geçiniz.

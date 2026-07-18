@@ -1,0 +1,25 @@
+Yapay zekanın Türkçesini geliştirecek ve Türk gibi düşünmesini sağlayacak dil modeli geliyor
+Türkiye, yapay zekanın oluşturabileceği riskleri önlemek amacıyla çalışmalarını yoğunlaştırırken TÜBİTAK tarafından geliştirilmeye başlanan "büyük dil modeli", bu teknolojinin Türkçesini geliştirmesine ve bir Türk gibi düşünmesine katkı sağlayacak.
+Ankara
+AA'nın, "Yapay Zeka Çağına Doğru" başlıklı dosyasının ikinci haberinde, Sanayi ve Teknoloji Bakanlığının ilgili kuruluşu TÜBİTAK'ın yapay zeka teknolojisine yönelik çalışmalarına yer verildi.
+Yapay zekanın gelişimi ve yayılması, diğer teknolojik ilerlemeleri geride bırakarak özellikle üretken yapay zeka ve büyük dil modelleri gibi alanları içine alarak bugüne kadar görülmemiş bir hızla ilerlemeye başladı.
+Bu durumun, mevcut paradigmalara ve çözümlere büyük etki yapacağı ve geleneksel yapay zeka çözümlerinin etkinliğini azaltarak bu alanda çözümler sunan teknoloji sağlayıcılarının rekabet gücünü zayıflatacağı öngörülüyor.
+Dünyadaki büyük teknoloji firmalarının geliştirdiği çözümlerle tekelleşmesi ve bu alanda diğer ülkeleri bağımlı hale getirmesi ihtimaline karşı ise üretken yapay zekanın Türkiye'de etkin kullanılması, bu teknolojileri geliştiren ve alanında yurt dışı bağımsızlığı kazanmış bir ekosisteme sahip olunması, Milli Teknoloji Hamlesi açısından kritik önem taşıyor.
+Yapay zekada Türkçe kaynak sınırlı
+Yapay zekanın kullandığı kaynak dil, kültürel etki bakımından da hayati önem taşıyor. Dil modellerinin önyargıları içerebilmesi ve bu modeller aracılığıyla kültüre yabancı önyargılar girebilmesi riski, bu teknolojiye yönelik çalışmaların önemini artırıyor.
+Dünyada yaygın şekilde kullanılan büyük dil modelleri eğitilirken Türkçeye yeterince yer verilmemesi önemli risklerden biri olarak görülüyor. Meta'nın modelinde ilk 16 dil içinde Türkçe kendine yer bulamazken OpenAI modelinin eğitiminde Türkçe kaynaklar yalnızca yüzde 0,16 oranında kullanılıyor.
+Chat GPT'de yazılan kodların yoğunlukla Anglo-Sakson dillerinden gelmesi, yapay zekanın verdiği yanıtlar ve sağladığı bilgilerde bu kültürün dünya görüşünün kullanıcılara sunulması dikkati çekiyor.
+Dolayısıyla çocukların bu dil modelleriyle etkileşim kurması, Türk kültür, örf, adetlerinde yer almayan birçok unsurla tanışıp kültürel yozlaşmanın bir parçası olması riskini barındırıyor.
+TÜBİTAK'ın modeli yapay zekanın dağarcığını geliştirecek
+Bu noktada TÜBİTAK BİLGEM tarafından çalışmaları yapılan "Türkçe Büyük Dil Modeli" stratejik önem taşıyor. Kurum, bu alanda "temel model" geliştiren ilk ve tek kurum olarak diğerlerinden ayrışıyor.
+Böylece, Türkçeyi iyi konuşmasının yanı sıra Türk kültürünü ve hassasiyetlerini de taşıyan bir model kullanıma hazırlanıyor.
+Temel model, yapay zeka alanında, geniş bir veri seti üzerinde önceden eğitilmiş ve genel dil yapısını, sözcüklerin ve cümlelerin nasıl kullanıldığını öğrenmiş bir model olarak tanımlanıyor.
+Bu model, belirli bir dilin veya birden fazla dilin geniş bir kapsamını içeren verilerle eğitiliyor. Örneğin, bir Türkçe temel model, internette bulunan Türkçe metinler, kitaplar, makaleler ve daha fazlasını içeren verilerle eğitilebilirken bu eğitim sürecinde model, dilin temel kurallarını ve dil bilgisini öğrenerek, kelime dağarcığını zenginleştiriyor.
+"Türkçe Büyük Dil Modeli" sayesinde, Türk örf ve adetlerini de içeren Türkçe verilerle zenginleştirilecek yapay zeka, Türkiye'nin hassasiyetlerine hakim olacak, yeni teknolojiler ve uygulamalarla genç nesilde oluşabilecek kültürel yozlaşmanın önüne geçilmesine katkı sağlayacak.
+Türkçeye özgü "tokenizer" geliştirildi
+Türkçe büyük dil modelinin geliştirilmesi için internet ve dijital kaynaklardan toplanan Türkçe metinlerle bir veri havuzu oluşturma çalışmaları devam ediyor.
+Bu proje kapsamında açık kaynaklı büyük dil modelleri üzerinde çalışmalar yapılıyor. Kaliteli bir Türkçe dil modeli oluşturmak için Türkçe'nin inceliklerini göz önünde bulunduran bir ön işleme aşaması geçirildi ve uygun derin öğrenme mimarisi seçildi.
+Ayrıca, Türkçeye özgü bir "tokenizer" geliştirilerek, bu açık kaynaklı büyük dil modellerinin Türkçede etkin şekilde kullanılması sağlandı. Bu mimarinin parametre sayısı ve kullanılacak veriye oranı belirlendikten sonra model eğitimine başlandı.
+Çalışmalar kapsamında eğitim süreci yakından takip edilirken, modelin farklı doğal dil işleme alanlarında (soru/cevap, özetleme, dil üretme, metin sınıflandırma gibi) farklı başarı metrikleriyle değerlendirilerek en iyi haline getirilmesi üzerinde duruluyor.
+Atılan adımlarla Türkçesi gelişmiş, Türkiye'nin hassasiyetlerine hakim yapay zekanın, genç nesilde oluşabilecek kültürel yozlaşmanın önüne geçilmesine de katkı sağlaması hedefleniyor.
+Anadolu Ajansı web sitesinde, AA Haber Akış Sistemi (HAS) üzerinden abonelere sunulan haberler, özetlenerek yayımlanmaktadır. Abonelik için lütfen iletişime geçiniz.

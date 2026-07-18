@@ -1,0 +1,20 @@
+'Direksiyon başında uyuklamayı önleyen sistem' geliştirdiler
+Bursa'da meslek lisesi öğrencilerinin geliştirdiği sistem sayesinde, gece görüşlü kameraya uygulanan yazılım yüzü algılıyor, gözlerin kapanması, başın öne fazlaca eğilmesi gibi durumlarda ses ve titreşimle sürücüye uyarı veriyor.
+Bursa
+Hürriyet Mesleki ve Teknik Anadolu Lisesinin Endüstriyel Otomasyon Teknolojisi Alanı öğretmeni İlker Yetişmişoğlu koordinatörlüğünde bir grup öğrencinin katılımıyla "Sürücü Uyku Durumu ve Takip Cihazı Projesi" hazırlandı.
+Uyku nedeniyle meydana gelen trafik kazalarının önlenmesi hedeflenen, kodlamalar ve yapay zeka ile çalışan sistem, araç sürücüsünü görecek şekilde monte edilen gece görüşlü kameraya uygulanan yazılım sayesinde yüzü algılıyor.
+Sistem, sürücünün gözlerinin belli bir süre kapanması ve başının öne düşmesi durumunda ses ve titreşimle uyarı vererek sürücünün dikkatini yola toplamasını sağlıyor.
+Sürücünün uyuklamasından kaynaklanan trafik kazalarını önlemeye yönelik takip cihazı için faydalı model başvurusunda bulunuldu.
+Takip cihazı prototipini geliştirme çalışmasına devam eden proje ekibi, sonraki aşamada bunu araç üzerinde deneyecek.
+"Sistem önce yüzü algılıyor"
+İlker Yetişmişoğlu, AA muhabirine, yapay zeka konusuna ilgilerinin olduğunu ve bunu öğrencilere de aktarmaya çalıştıklarını söyledi.
+Görüntü işleme alanında da çalışmalar yaptıklarını belirten Yetişmişoğlu, "Özellikle uzun yol şoförlerinin geceleri araç kullanırken uyuklamalarına yönelik bir çözüm düşündük. Başka sistemler var ancak biz bunu kameralı ve yapay zekayı birleştirerek yapalım istedik." dedi.
+Projenin okuldaki öğretmenlerle öğrencilerin bilgi ve becerileriyle ortaya çıktığını kaydeden Yetişmişoğlu, kodlar yazdıklarını, denemeler yaptıklarını, yüz ve göz algılama işlemi gerçekleştirdiklerini dile getirdi.
+Takip cihazının çalışma prensibini anlatan Yetişmişoğlu, şöyle konuştu:
+"Sistem önce yüzü algılıyor. Şoför mahallinde bir insan var mı ve gözleri açık mı diye ona bakıyor. Gözler kapalıysa sistem şoförün uyuduğuna kanaat getiriyor, kafası öne düştüyse ve gözleri görüş alanından çıktıysa uyuduğunu algılıyor. Şoföre sesli bir uyarı veriyor ve şoförün koltuğu da titreşiyor. Modeli ne olursa olsun 20 yıllık bir arabaya da takabiliriz bu sistemi, son model bir arabaya da takabiliriz. Sistemin çok büyük bir maliyeti yok, şu anda 1000 lira gibi bir maliyeti var. Bunu daha da azaltmaya çalışıyoruz."
+Öğrenciler projede yer almaktan mutlu
+Projeye katkı sunan öğrencilerden İsmail Bektaş da çalışmaya yer almaktan mutlu olduğunu, kendisini geliştirme imkanı bulduğunu belirtti.
+Mekanik işlere ilgi duyduğunu anlatan Bektaş, "Mühendis olmak istiyorum, otomasyon alanında ilerlemeyi düşünüyorum. Bu sistemle beraber kazaların önüne geçmeyi planlıyoruz." ifadesini kullandı.
+Burak Cengiz de yazılım, mekanik ve otomasyon konusunda eğitimler aldığını söyledi.
+Projenin kendisine yazılım alanında büyük katkılarının olduğunu kaydeden Cengiz, "Hedefimde otomasyon üzerine ilerlemek var. Bu tür projelerin bana çok katkısı var." değerlendirmesinde bulundu.
+Anadolu Ajansı web sitesinde, AA Haber Akış Sistemi (HAS) üzerinden abonelere sunulan haberler, özetlenerek yayımlanmaktadır. Abonelik için lütfen iletişime geçiniz.

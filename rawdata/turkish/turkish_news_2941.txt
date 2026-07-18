@@ -1,0 +1,11 @@
+İSTANBUL (AA) - Toyota, otonom sürüş konusunda yaptığı çalışmalarını tüm hızıyla sürdürürken, gelişmiş otonom araçlarıyla test sürüşlerine Avrupa'nın trafiğe açık yollarında başladı.
+Toyota açıklamasına göre, Toyota simülasyonlarda ve kapalı pistlerde yapılan başarılı denemelerin ardından, kendi geliştirdiği otonom sistemini, gerçek hayatta kullanıma sunmaya hazırlanıyor.
+Bu amaçla Lexus LS modeli ile Brüksel'in caddelerinde otonom sürüş testleri gerçekleştiriliyor.
+- Öncelik güvenlik
+Açıklamaya göre, otonom araç testlerine başlayan Lexus LS'in standart modelden tek farkı, tavana yerleştirilmiş bir dizi sensör, radar ve kamera konumlandırma sisteminin olması. Güvenlik amacıyla, aracın içerisindeki sürücü her an otonom araca müdahale edebiliyor.
+Toyota, aynı zamanda bu aracı halka açık yollarda kullanmadan önce aylar süren bir hazırlık dönemini tamamladı. Bunlar arasında otonom sistemin onaylanması, sürücülerin eğitimi, rotanın analizi ve yetkililerden onay gibi aşamalar yer alıyordu.
+Bu otonom araç çalışması, Toyota'nın “herkes için daha güvenli ve daha iyi mobilite” global vizyonunu oluşturuyor. Toyota aynı zamanda sürücü ve makine arasındaki iletişimi incelerken, sürücüsüz otomobilin de kapılarını aralıyor.
+-Toyota, L3Pilot Projesi için Veri Toplayacak
+Avrupa'da kullanılacak otonom araç, aynı zamanda Toyota'nın da yer aldığı Avrupa “L3Pilot projesi” kapsamında diğer 34 partnerle birlikte veri toplamak için de kullanılacak. Bu işbirliğinde büyük otomobil üreticileri, otomotiv tedarikçileri, araştırma enstitüleri yer alıyor.
+2017'de başlayan dört yıllık bir proje olan L3Pilot, aynı zamanda kısmen Avrupa Komisyonu tarafından da finanse ediliyor. L3Pilot, Avrupa'da 10 ülkede, 100 araçtaki 1000 sürücüyü içeren kapsamlı bir otonom araç test projesini içeriyor. Bu çerçevede Toyota Avrupa kompleks ve farklı şehir içi alanlarda güvenlik sistemlerinin çalışmalarına ve kullanıcılarının davranışlarına odaklanacak.
+Açıklamada görüşlerine yer verilen Toyota Avrupa Araştırma ve Geliştirme Başkan Yardımcısı Gerard Killmann, Toyota'nın otonom testlerinde ana hedefin kompleks ve tahmin edilemez insan davranışlarına otonom sistemlerin vereceği tepkileri ölçmek olacağını belirterek, "Japonya ve Amerika'da başarılı yol testlerinin ardından şimdi ise bu teknolojiyi daha iyi anlamak adına Avrupa'da da testlere başlıyoruz." ifadesini kullandı.

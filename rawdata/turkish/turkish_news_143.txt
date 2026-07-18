@@ -1,0 +1,16 @@
+Milli işletim sistemi PARDUS'tan Cumhuriyet'in 100. yılına özel sürüm
+Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, milli işletim sistemi PARDUS'un "Pardus 23" sürümünün, kullanıcılarına modern bir işletim sistemi deneyimi sunmanın yanı sıra ülkenin teknolojik gelişimine katkısını da gösterdiğini bildirdi.
+Ankara
+Kacır, yazılı açıklamasında, söz konusu sürümün, Türkiye'nin bağımsız yazılım geliştirme yeteneklerini ve teknolojik bağımsızlığını vurgulayan bir adım olarak öne çıktığını belirtti.
+Sürümün Türkiye'nin bilgi teknolojileri sahnesindeki rolünü güçlendirmek ve milli kimliğini yansıtmak için geliştirildiğine dikkati çeken Kacır, "Kullanıcılarına modern bir işletim sistemi deneyimi sunmanın yanı sıra ülkenin teknolojik gelişimine olan katkısını da gösteriyor." değerlendirmesinde bulundu.
+Bakan Kacır, Türkiye'nin milli işletim sistemi ile daha güvenli ve verimli bir deneyim yaşamak için herkesi PARDUS'a geçmeye davet etti.
+Kullanım kolaylığını ön plana alan PARDUS'un yeni ana sürümünün TÜBİTAK ULAKBİM tarafından geliştirildiğine işaret eden Kacır, "30 Ağustos'ta Pardus 23 'Ay Yıldız' sürümü çıkmıştı. 29 Ekim'de de Pardus 23 100. Yıl Özel Sürümü'nü kullanıma sunuyoruz." bilgisini verdi.
+"Pardus 23, tam bağımsız Türkiye'nin sembolü"
+Kacır, Türkiye'nin bağımsızlığını ve yerli teknoloji üretme kapasitesini güçlendirmek için attıkları adımlardan gurur duyduklarını aktardı.
+PARDUS işletim sisteminin bu yeni sürümünü "önemli bir kilometre taşı ve Türkiye Yüzyılı hedefleri doğrultusunda büyük bir başarı" şeklinde nitelendiren Kacır, şunları kaydetti:
+"Pardus 23, tam bağımsız Türkiye'nin sembolüdür. Bu sürüm, yerli ve milli bir yaklaşımı yansıtırken, aynı zamanda teknoloji alanında Türkiye'nin ulusal ölçekteki potansiyelini gösteriyor. Hem kamu hem de özel sektörün kullanımına sunulan bu işletim sistemi, ülkenin siber güvenlik yeteneklerini artırmak, bağımsızlık ve veri gizliliğini korumak için kritik bir rol oynamaktadır."
+"Sistem yönetimini daha basit hale getiriyor"
+TÜBİTAK Başkanı Prof. Dr. Hasan Mandal da Pardus 23'ün detaylarına ilişkin şu bilgileri paylaştı:
+"Pardus 23, kullanıcıların tercihlerine göre iki farklı masaüstü ortamı sunuyor. XFCE ve GNOME sürümleri arasından seçim yaparak, işletim sistemini kendi ihtiyaçlarınıza göre özelleştirebilirsiniz. Linux 6.1 çekirdek sürümü, daha iyi performans, sürücü uyumluluğu ve güvenlik sunarak Pardus 23'ü daha sağlam bir hale getiriyor. Pardus 23, Pardus GNOME Karşılayıcı, XFCE İnce Ayarlar, Pardus Güncelleyici gibi kullanışlı yeni uygulamalar ve daha fazlasıyla birlikte geliyor. Bu uygulamalar, kullanıcıların işlerini daha kolay ve hızlı bir şekilde yapmalarına olanak tanırken, sistem yönetimini daha da basit hale getiriyor."
+"www.pardus.org.tr" internet adresi ziyaret edilerek, Pardus 23 100. Yıl Sürümü denenebiliyor ve hakkında daha fazla bilgi edinilebiliyor.
+Anadolu Ajansı web sitesinde, AA Haber Akış Sistemi (HAS) üzerinden abonelere sunulan haberler, özetlenerek yayımlanmaktadır. Abonelik için lütfen iletişime geçiniz.

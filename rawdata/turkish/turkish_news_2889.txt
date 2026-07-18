@@ -1,0 +1,14 @@
+İSTANBUL (AA) - Ford, büyük ölçekli otomobil parçaları için 3D baskı testleri gerçekleştirmeye başladı.
+Ford'dan yapılan açıklamaya göre, 3D baskı teknolojileri konusunda dünyanın öncü şirketlerinden Stratasys ile iş birliği gerçekleştiren ilk otomotiv şirketi olan Ford, bu kapsamda önemli bir yeniliğe daha imza atmaya hazırlanıyor.
+"Stratasys Infinite Build 3D" yazıcı kullanarak büyük otomobil parçalarının 3D baskısını test eden Ford, gelecekte üreteceği otomobillere yönelik kişiselleştirilmiş parçalar üretmek için de potansiyel uygulamaları araştırıyor.
+3D baskı teknolojileriyle üretilen otomobil parçaları hem üretici hem de müşterilere büyük fayda sağlıyor. Geleneksel yöntemlerle üretilen otomobil parçalarından daha hafif olan bu parçaların yakıt verimliliğinin artırılmasında önemli rol oynayabileceği öngörülüyor.
+Stratasys Infinite Build 3D baskı sistemi, hemen hemen her tip ve boyda otomobil parçalarını 3D baskı yöntemiyle üretebiliyor. Bu sistemin, prototip parçaların yanı sıra Ford'un performans araçları veya kişiselleştirilmiş otomobil parçaları gibi düşük hacimli üretimin daha verimli ve ekonomik bir şekilde gerçekleşmesi için de bir dönüm noktası olabileceği düşünülüyor.
+Yeni 3D baskı sistemi, Ford'un ABD'deki araştırma ve inovasyon merkezi Dearborn'da yer alıyor.
+Ford'un Üretim Araştırmasından Sorumlu Teknik Lideri Ellen Lee, konuya ilişkin değerlendirmesinde, Infinite Build teknolojisiyle otomobillerin büyük aksesuar, alet ve parçalarının baskısını yapıp, tasarım süreçlerini daha hızlı yürütebileceklerini bildirdi.
+Lee, "Stratasys'ın bu yeni teknolojisine erken erişimimizle birlikte otomotivde büyük ölçekli baskının gelişimini yönlendirmek bizim için çok heyecan verici." ifadesini kullandı.
+- Birkaç aylık üretim sürecini birkaç güne indirecek
+Endüstriyel alanlarda büyük bir gelişim gösteren 3D baskı teknolojilerinin gelecekte havacılık, eğitim ve tıp gibi sektörler başta olmak üzere tüm üretim süreçlerinde kullanılması bekleniyor.
+Uluslararası araştırma kuruluşu Global Industry Analysts'in raporuna göre, 3D baskı uygulamalarının 2020 yılı itibarıyla 9,6 milyar dolarlık bir küresel pazar oluşturması bekleniyor.
+3D baskı teknolojileri, yüksek hacimdeki üretimler için henüz yeteri kadar hızlı olmasa da otomobil parçalarının prototipleri ve yarış otomobillerine özel parçaların üretimi gibi düşük hacimlerde üretilen parçalar için ekonomik bir çözüm sunuyor.
+Bugün geleneksel üretim yöntemleri kullanılarak üretilen bir otomobil parçası için öncelikle bilgisayar ortamında bir model oluşturuluyor ve prototipin üretilmesi için aylarca beklenmesi gerekebiliyor.
+3D baskı teknolojileriyle Ford, aynı parçanın çok kısa bir sürede baskısını gerçekleştirip, maliyetini de ciddi oranda azaltabiliyor.

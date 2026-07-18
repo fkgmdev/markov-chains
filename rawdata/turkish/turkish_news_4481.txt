@@ -1,0 +1,20 @@
+Tarımda 'yerli ve milli teknoloji' seferberliği
+Tarımsal faaliyetlerde üretim ve verim artışı sağlayarak çiftçinin refahını artırmak amacıyla son dönemde birçok alanda yerli ve milli teknolojiye yönelik çalışma yürütülüyor.
+Ankara
+AA muhabirinin derlediği bilgilere göre, Tarım ve Orman Bakanlığı öncülüğünde Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğü tarafından yürütülen projeler kapsamında geliştirilen teknolojik ürünler tarımsal faaliyetlerde kolaylık sağlıyor.
+Özellikle son yıllarda yerli ve milli imkanlarla tarımsal teknolojilerin geliştirilmesi için projeler geliştiriliyor. Bu kapsamda, Türkiye'nin ilk yerli ve milli tarla sınıfı diye anılan 105 beygir gücünde, 4 teker tahrikli, manevra ve dümenleme kabiliyeti bu sınıftaki traktörlere göre iyileştirilmiş "milli elektrikli traktör prototipi" yapıldı.
+Şarj süresi 45 dakika olan traktörün üzerindeki tüm özel yazılımlar Türk mühendisler tarafından geliştirildi. Çevre dostu elektrikli traktörle, sınıfındaki diğer traktörlere göre yıllık ortalama 133 bin lira yakıt tasarrufu sağlanacağı tahmin ediliyor. Traktörün yol testleri yürütülerek seri üretim için çalışmalar sürüyor.
+Yapay zekalı sistemler devrede
+Akıllı tarıma yönelik Ar-Ge çalışmaları kapsamında ASELSAN ile çeşitli projeler yürütülüyor. ASELSAN'ın insansız sistemler, haberleşme, trafik ve otomasyon sistemlerindeki birikimlerinin tarımsal uygulamalara katkı yapmasına yönelik adımlar atıldı.
+Bu çerçevede, daha etkin toprak işleme ve daha az yakıt tüketimi için yerli ve milli "Otomatik Dümenleme Sistemi" geliştirildi. Tarım araçlarında toplanan verilerin aktarılmasında kullanılmak üzere "Çiftlik Yönetim Sistemi Geliştirilmesi Projesi" yürütüldü.
+Buğdaya büyük zarar veren süneyle mücadele için yapay zeka uygulamalarından yararlanılmaya başlandı. Tahmin ve Uyarı Sistemi ile hastalık ve zararlılarla mücadelede ilaçlamanın gerekli olup olmadığına karar vermek, en uygun ilaçlama zamanını saptamak ve üreticileri uyarmak kolaylaştı.
+Toprak ve kuraklık kontrolü, gübre ihtiyacı, hasat zamanlama tahmini, rekolte ve verim hesabı yapılmasına yönelik "İHA ile Görüntü İşleme Temelli Hassas Tarım Uygulamaları" da ASELSAN ile iş birliği yapılarak geliştirildi.
+Otonom ilaçlama robotuyla değişken oranlı ilaç uygulama projesi başlatıldı. Bu kapsamda, hastalık bulaşmış alanların ve hastalık şiddetinin tespiti, İHA'ya takılacak multispektral kameralarla belirlenerek tarla yüzeyi için bir ilaçlama programı oluşturulacak. İlaçlama robotu, koordinatları öğretilmiş alanlarda GPS ve navigasyon sistemleriyle sürücüsüz olarak ilaçlama yapacak.
+"Gezen hibrit sağımcı makinesi" kolaylığı
+Bitkisel üretimin yanı sıra hayvancılık faaliyetlerinde de yerli ve milli teknolojilerin kullanımı artıyor. Bu kapsamda, küçükbaş hayvan sağımında çiğ süt kalitesini artırmak, sağım işini kolaylaştırmak ve üreticinin gelirini artırmak için gezen hibrit sağımcı makinesi prototipi üretildi.
+Büyükbaş ve küçükbaş hayvanlar için yerli ve milli "Elektronik Küpe Sistemi" devreye sokuldu. Bu sayede artık anlık hayvan sayımının yanı sıra lokasyon bilgisi, kızgınlık takibi gibi bilgiler elde edilebiliyor. Sistem aynı zamanda salgın hastalıklarla etkin mücadeleyi de sağlayacak ve yüzde 100 kayıtlılık esasını getirecek.
+e-Çiftçi portalıyla cepten başvuru
+Ayrıca, Tarım ve Orman Bakanlığı tarafından e-Çiftçi portalı geliştirildi. Portal sayesinde çiftçiler destekleme başvurularını kolaylıkla yapabiliyor. Çiftçiler birçok konuda bilgiye de buradan ulaşabiliyor.
+Bilgisayarın yanı sıra mobil cihazlarla portala ulaşılabilmesi çiftçiye zaman ve para tasarrufu sağlıyor.
+Laboratuvar teknolojileri alanında yürütülen çalışmalarla da toprakta azot miktarının ölçülmesine ve gübre önerisine yönelik lazerle tespit sistemi geliştirildi.
+Anadolu Ajansı web sitesinde, AA Haber Akış Sistemi (HAS) üzerinden abonelere sunulan haberler, özetlenerek yayımlanmaktadır. Abonelik için lütfen iletişime geçiniz.

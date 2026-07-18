@@ -1,0 +1,29 @@
+Türkiye savunmada 4 koldan akıllı teknoloji geliştiriyor
+Türk savunma sanayisinde alanlarına liderlik eden ASELSAN, TUSAŞ, ROKETSAN ve HAVELSAN, kendi işini kendisi halledebilen insansız sistemlere ve bunların sürü halinde kullanımına yönelik yoğun bir çalışma yürütüyor.
+Ankara
+Türk savunma sanayisinin önde gelen şirketleri, kendi işini kendisi halledebilen (otonom) insansız araçlar geliştirmek ve bunların sürü halinde kullanımına yönelik dünyadaki yarışta Türkiye'nin elini güçlendirmek için çaba gösteriyor.
+AA muhabirinin derlediği bilgiye göre, insansız sistemlerin örnekleri ve kullanımı tüm dünyada artıyor. Özellikle insansız hava araçlarıyla (İHA) yarışta yerini alan Türkiye, bu alanda önde gelen ülkelerle eş zamanlı teknolojiler geliştirip, yakaladığı ivmeyi sürdürmek istiyor.
+Bu çabalarda Türk savunma sanayisine liderlik eden ASELSAN, Türk Havacılık ve Uzay Sanayi (TUSAŞ), ROKETSAN ve HAVELSAN'ın yürüttüğü faaliyetler önemli bir yer tutuyor.
+HAVELSAN tarafından düzenlenen Otonom Destekli Çok Katmanlı Harp konulu "Teknoloji Sohbetleri" etkinliğinde HAVELSAN, ASELSAN, ROKETSAN ve TUSAŞ'ın yürüttüğü çalışmalar değerlendirildi.
+Türk savunma sanayisinde yazılım tabanlı çözümlere imza atan HAVELSAN, geliştirdiği özgün sistem, çözüm ve yazılımlarla ilk etapta hava ve kara, sonrasında su üstü ve su altı platformlara yönelik olarak birbiriyle konuşabilen ortak görev icra edebilen sistemleri geliştirmek için çalışıyor.
+Bu platformları üreten firmaların ürünlerine akıl katıp, müşterek ve çok katmanlı harbe hazırlamak için faaliyet yürüten HAVELSAN, üzerindeki sensör, yazılım ve faydalı yüklerle birçok farklı görevi otonom olarak yapabilecek insansız kara aracını bu yıl kullanıma hazır hale getirmeyi amaçlıyor.
+Şirket, hava ve kara platformlarına yönelik yürüttüğü Ar-Ge projelerine yakın zamanda su üstü ve su altı platformlarına yönelik projeleri eklemeyi hedefliyor.
+HAVELSAN, sahadan elde edilen bilgiler ve teknoloji geliştirme çalışmalarıyla çok katmanlı harp alanında birbiriyle entegre çalışabilen, çoklu görev yapabilen, merkezi olarak komuta kontrol edilebilen, birden fazla unsurun tek operatör tarafından yönetildiği daha karmaşık çözümler sunmak için de hazır hale geldi.
+"Dijital birlikler" kavramını gündemine alan HAVELSAN, dijital asker olarak nitelenen insansız sistemlerden "dijital birlikler" oluşturma doğrultusunda çaba gösteriyor.
+Bu kapsamda, geliştirilen sürü teknolojisiyle hava, kara, denizdeki otonom araçların, görev paylaşımıyla verilen sorumluluğu birlikte başarıyla yerine getireceği konsept üzerine yoğunlaşıldı.
+ASELSAN sürü konseptini denize taşıdı
+ASELSAN da insansız ve otonom sistemlere yönelik uzun zamandır çalışmalar yürütüyor.
+İnsansız sistemler faaliyet alanında uzaktan kontrol edilebilen, kendi başına karar verip uygulama yeteneğine sahip araçların geliştirilmesi ve üretilmesine çalışan ASELSAN, aynı platform üzerine farklı faydalı yükler entegre ederek geliştirdiği bir dizi çözümle halen güvenlik güçlerine hizmet veriyor.
+Daha önce kullanıcılara bomba imha robotu gibi uzaktan komutalı sistemler sunan ASELSAN, değişen talepleri de dikkate alarak mevcut sistemlere otonomi entegre etmeye ve yeni çözümlere imza atmaya başladı.
+Türkiye'de yoğun olarak hava araçlarına yönelik sürü uygulamalarından örnekler bulunurken, ASELSAN İnsansız Kara ve Deniz Araçları Program Müdürlüğü kara ve deniz platformlarına yönelik çalışıyor. Bu kapsamda deniz araçlarıyla 4'lü ve 8'li sürü uygulaması çalışmaları yürütülüyor.
+Otonom olmayan sistemlerin otonom hale getirilmesine yönelik çalışmalar da gerçekleştiren ASELSAN, kullanım ömrü tamamlanmış deniz sistemlerine otonom kit entegre ederek tatbikatlarda hedef olarak kullanılmasını sağlıyor. Şirket, ayrıca tank, bot, gemi gibi sistemleri bu tür kitlerle otonom hale getirip sürü çalışmalarında sürünün bir parçası olarak değerlendirebiliyor.
+ROKETSAN algoritmalar geliştiriyor
+Türk Silahlı Kuvvetlerine akıllı mühimmat ve füze sistemleri kazandıran ROKETSAN da bu faaliyet alanı dolayısıyla kurulduğu günden bu yana otonom sistemlere yönelik çalışmalar yapıyor.
+Geliştirdiği füze ve mühimmatların belli bir hedefe en etkin şekilde ulaşabilmesi, hedefler arasında seçim yapabilmesi, havada görev değişikliği için teknolojiler geliştiren ROKETSAN, aynı zamanda uluslararası ve ulusal alanda farklı unsurların ortak operasyon yapabilmesine yönelik çalışmalar yürütüyor. Şirket bu amaçla bazı algoritmalar geliştirmeye başladı ve bu yönde çalışmalarını sürdürüyor.
+ROKETSAN'ın gündeminde insan beynindeki sinyallerle otonom sistemin kontrolünün gerçekleştirilmesi, bu sinyallerle eğitildikten sonra eylemlerin aynısının yapılmasını sağlayan teknolojiler bulunuyor.
+Helikopter, uçak ve İHA'lara özel çözümler
+TUSAŞ ise yapay zeka tabanlı insansız sistem çözümlerini, ürettiği ve geliştirdiği hava araçlarına entegre ediyor.
+Son dönemde bu alanda gündeme gelen çeşitli teknoloji gösterimlerine benzer projeler yürüten TUSAŞ, geliştirdiği yeni nesil platform ve yer sistemlerinde de yapay zeka yetkinliklerini kullanıyor.
+TUSAŞ, Milli Muharip Uçak, Hürjet gibi yeni nesil sistemlerde yer alacak ve pilot becerilerini güçlendirecek çözümlere yönelik çalışmalar yürütülüyor. Pilota bir şey olduğunda, bilincini ve uçağın kontrolünü kaybettiğinde bunu anlayan, böyle bir durumda mevcut görevini bırakıp kontrolü ele alıp güvenli hava limanına yönlendirme yapabilen sistemlerin yapay zekayla hızlandırılıp güçlendirilmesini amaçlayan çalışmalar bulunuyor.
+TUSAŞ, helikopter, uçak ve İHA'lar için farklı otonom sistemler üzerinde çalışıyor. Hem bu araçların üretiminde hem de görev sırasında topladıkları verilerin değerlendirilmesine kullanılan çeşitli yapay zeka sistemleri geliştiriliyor.
+Anadolu Ajansı web sitesinde, AA Haber Akış Sistemi (HAS) üzerinden abonelere sunulan haberler, özetlenerek yayımlanmaktadır. Abonelik için lütfen iletişime geçiniz.

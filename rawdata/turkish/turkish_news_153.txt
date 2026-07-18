@@ -1,0 +1,13 @@
+ASELSAN'ın küp uydusu için geri sayım
+ASELSAT 3U Küp Uydusu, 14 Ocak'ta SpaceX firmasına ait Falcon-9 roketi ile alçak dünya yörüngesine yerleştirilmek üzere ABD'ye gönderildi.
+Ankara
+ASELSAN tasarımı kritik bileşenlerin, İstanbul Teknik Üniversitesince üretilen platforma entegre edilmesiyle geliştirilen ASELSAT Küp Uydusu'nun uzaya gönderilmesi için geri sayım başladı.
+Uydu haberleşme sistemleri, askeri birliklerin vazgeçilmez haberleşme araçlarını oluşturuyor. Komuta kontrol sistemlerinin birer parçası olan emniyetli ses, görüntü ve veri haberleşmesi için kullanılan uydu teknolojilerinin önemi, özellikle sınır ötesi operasyonlar sırasında daha da artıyor.
+Buradan hareketle ASELSAN, sahadaki askeri birliklerle bunların bağlı bulundukları komuta merkezlerinin ve karargahlarla muharebe alanındaki komutanlıkların taktik ihtiyaçlarını karşılamak amacıyla, en yetkin haberleşme araçlarından birini daha alternatif çözüm olarak ortaya koyuyor.
+ASELSAN, uydu teknolojileri konusunda sahip olduğu proje yönetimi, sistem/alt sistem tasarımı, yazılım geliştirme, üretim, test ve entegrasyon alanlarındaki bilgi ve tecrübesini kullanarak, gerek askeri, gerekse sivil uydu haberleşme sistemleri ve uydu sistemleri çözümleri sunuyor.
+Bu kapsamda son olarak öz kaynaklı Ar-Ge Projesi kapsamında ASELSAT 3U Küp Uydusu geliştirildi. Uydu, 14 Ocak'ta SpaceX firmasına ait Falcon-9 roketi ile alçak dünya yörüngesine yerleştirilmek üzere ABD-Florida'ya doğru yola çıktı.
+Ürünlere tarihçe kazandırılacak
+ASELSAN tasarımı kritik bileşenlerin, İstanbul Teknik Üniversitesince üretilen platforma entegre edilmesiyle geliştirilen ASELSAT'ın yörüngeye başarılı şekilde yerleştirilmesinin ardından görevine başlaması bekleniyor.
+ASELSAT, kamera görev yükü ile elde edeceği optik görüntüyü, X-Bant aşağı hat alt sistemi aracılığıyla yer istasyonuna indirecek, sayısal kart görev yükü üzerinde bulunan radyasyon dozimetresi ve sıcaklık sensörü ile uzay ortamı hakkında istatiksel veri toplayacak.
+ASELSAT Küp Uydu Projesi'yle, şirket tarafından geliştirilen X-Bant vericinin yörüngedeki görevi sırasında doğrulamasının gerçekleştirilmesi ve ASELSAN ürünlerine tarihçe kazandırılması hedefleniyor.
+Anadolu Ajansı web sitesinde, AA Haber Akış Sistemi (HAS) üzerinden abonelere sunulan haberler, özetlenerek yayımlanmaktadır. Abonelik için lütfen iletişime geçiniz.

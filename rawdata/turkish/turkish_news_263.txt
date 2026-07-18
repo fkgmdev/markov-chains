@@ -1,0 +1,45 @@
+Cezeri yolu açtı, yapay zeka hayatı akıllandırdı
+Tarihte Cezeri'nin çalışmalarıyla temelleri atılmaya başlanan yapay zeka projeleri, 9 asır sonra sanayiden ticarete, eğitimden sağlığa kadar her alanda değişim ve dönüşümün aktörü oldu.
+Ankara
+AA'nın, "Yapay Zeka Çağına Doğru" başlıklı dosyasının ilk haberinde "hayatı akıllandıran" teknolojide dünden bugüne yaşanan gelişmeler ele alındı.
+Yapay zeka, insan aklını taklit ederek sürekli bilgi toplayan, dış dünyanın gereksinimlerine göre kendisini yenileyen, görevlerini yerine getirip amacına göre hareket edebilen yapay veya biyolojik sistemlerin kontrol ve haberleşmesi olarak tanımlanıyor.
+Bu teknoloji, bankacılıktan finansal hizmetlere, sigortadan kamuya, havacılıktan savunma sanayisine, otomotivden sağlığa, bilgi teknolojilerinden telekoma, üretimden eğitime, perakendeden e-ticarete, enerjiden medya ve eğlenceye kadar yüzlerce sektörün dönüşümünde anahtar rol oynuyor.
+Cezeri yapay zekanın öncü adımlarını attı
+Dünyaca tanınan bilim insanları Fransız Blaise Pascal ve İngiliz Charles Babbage bu alanda önde gelen isimler olarak bilinse de aslında 9 asır önce Ebu'l İz El Cezeri dünyadaki ilk robotu yapan, sibernetik ve bilgisayar biliminin babası olarak görülüyor.
+Enerji kaynağı, yönetim mekanizması ve geri besleme sistemlerinin tümünün su, buhar ve havanın itiş gücüyle yapıldığı buluşlarını kitabında toplayan Cezeri'nin Leonardo da Vinci'ye ilham kaynağı olduğu belirtiliyor.
+"Mekanik Hareketlerden Mühendislikte Faydalanmayı İçeren Kitap" adlı eserinde bugünkü sibernetik, bilgisayar ve robot biliminin temellerini atan Cezeri'nin yaptığı otomatik saat, su pompaları ve otomatik abdest alma makinesi tarihteki ilk robotlar olarak kabul ediliyor. Bu projeler aynı zamanda yapay zekaya uzanan sürecin başlangıcı olarak görülüyor.
+İlk yapay zeka patent başvurusu 1950'lerde
+Yapay zeka projelerinde gelişimi hızlandıran süreç 2. Dünya Savaşı oldu. Yoğun hava saldırılarına karşı hava savunma sistemlerinin hızlı ve hassas şekilde çalışması, radar antenlerinin hedefe otomatik dönmesi ve hedefini kendi kendine bulan uçaksavar topuna ihtiyaç duyulması bu yöndeki projelere ağırlık verilmesini beraberinde getirdi.
+Dünya Fikri Mülkiyet Örgütü (WIPO) raporuna göre, 1950'li yıllar yapay zeka alanındaki patentleşme sürecinin başladığı dönem olurken en çok başvuru Japonlar, Güney Koreliler ve ABD'lilerden geldi.
+Sonraki yıllarda savaş dışında pek çok sektörde yapay zeka uygulamaları kullanılmaya başlandı.
+1980'li yıllara gelindiğinde Amerikan Yapay Zeka Derneğinin de kurulmasıyla "gelecek" temalı bilim kurgu filmlerinde yapay zeka kavramı işlenmeye başlandı.
+Teknoloji şirketleri oyuna girdi
+Bu teknoloji, zaman ilerledikçe satrançtan televizyon programlarına kadar farklı alanlarda kendisini gösterdi. Özellikle IBM'nin "Deep Blue"sunun Garry Kasparov ile girdiği satranç karşılaşmasını kazanması, Watson bilgisayarının ise düzenlenen yarışmada TV programı "Jeoparody!" şampiyonlarını yenmesi o yıllarda tarihe geçen olaylar oldu.
+2010'lu yıllara gelindiğinde teknoloji şirketleri bu alanda daha çok ürün ve yazılım geliştirmeye başladı. Apple "Siri"sini 2011'de, Amazon ise "Alexa"sını 2014'te kullanıcılarına tanıttı.
+Microsoft ise eski adı Twitter olan X'te hesap açtığı Tay isimli chatbotu insanlar tarafından yanlış yönlendirildiğinden dolayı 24 saat içinde kapatmak durumunda kaldı.
+Daha sonra bilim insanı Ian Goodfellow tarafından "Çekişmeli Üretici Ağlar" bulundu ve bu da yapay zekanın gerçeğe benzer sahte üretimler yapabilmesinin önünü açtı.
+Söz konusu gelişmelerin ardından "faydalı yapay zeka" ve "yapay zeka güvenliği" konuları gündeme sıkça gelmeye ve bu teknolojinin güvenilirliği sorgulanmaya başlandı.
+Yeni beceriler kazanıyor
+Yakın dönemdeki gelişmelerle yapay zekanın sesli, yazılı ve görsel sanatlar üzerinde de yetkinlik kazandırılması sağlandı.
+Transformers Networks denilen dönüştürücü ağlarla yeni bir "sinir ağı" türü tanıtılması ve 2019'da OpenAI tarafından 1,5 milyar parametreli GPT-2'nin yayınlanması bu dönemin başlangıcı oldu.
+Asıl paradigma değişiklikleri 2020'de 175 milyar parametreli GPT-3 ve 2021'de yazıyla tarif edilen resimleri üretebilme yeteneği olan DALL-E adlı çalışmalarla yaşandı.
+Sonrasında bu teknolojinin GPT-4 ve DALL-E 3 versiyonları da piyasaya sürülürken Meta LLaMA, Google Gemini, Microsoft Copilot ve X'in xAI Grok sohbet robotları kullanıma alındı.
+OpenAl'ın yeni yapay zeka modeli Sora ise metin komutlarıyla gerçekçi ve yaratıcı sahneler oluşturarak video veya film çekilmesine olanak sağladı.
+Türkiye'de ilk patent başvurusu 1995'te
+Bu dönüşüm sürecinin ana aktörlerinden olmak isteyen Türkiye'de ise yapay zeka alanındaki gelişmeler 1990'ların sonunda hızlandı. Yapay zeka alanında ilk yabancı patent başvurusu 1995'te, ilk yerli müracaat ise 1998'de gerçekleşti. Patent talebinin geldiği yerli projeler kara yolları ve finans alanındaydı.
+2000 ve 2001 yıllarındaki birer başvuruyu, 2005'te çift haneli, 2012'de ise 3 haneli müracaatlar takip etti. Yerli patent başvuruları 2021'de 630 ile rekor kırdı. Geçen yıl ise toplam 498 başvuru Türk Patent'e ulaştı.
+Yabancı patent başvuruları da bu süreçte devam etti. Sadece geçen yıl 171 başvuru alındı. Böylece sadece geçen yıl 669 patent başvurusu yapılmış oldu.
+Yerli ve milli yapay zeka çalışmaları başladı
+Öte yandan Türkiye Teknoloji Takımı Vakfı (T3 Vakfı) yapay zeka alanında Türkiye'nin büyük dil modeli T3 Ai'LE projesini başlattı.
+TÜBİTAK BİLGEM bünyesinde Yapay Zeka Enstitüsünün kurulması da tarihi aşamalardan biri olarak kayıtlara geçti. Enstitü, yapay zeka tabanlı inovasyon, büyüme, üretkenlik oluşturma ve sürdürme çalışmalarına öncülük ediyor.
+Bu kapsamda çıkılan çağrılarla "Türkiye Yapay Zeka Ekosistemi"nin geliştirilmesi amaçlanıyor.
+Küresel yapay zeka pazarı, geçen yıl itibarıyla çeyrek trilyon doları aşarken bu pastadan pay almak isteyen Türkiye'nin de aralarında olduğu ülkeler çalışmalarını hızlandırdı.
+Cumhurbaşkanı Recep Tayyip Erdoğan liderliğinde hazırlanan ve Sanayi ve Teknoloji Bakanlığı tarafından yürütülen Milli Teknoloji Hamlesi ile büyük veri ve yapay zeka gibi konularda bireylerin ve işletmelerin yetkinliklerinin artırılması ve bu teknolojilere dayalı akıllı sistemlerin geliştirilmesi ve yaygınlaştırılmasına yönelik tedbir, destek ve teşvik programları uygulamaya alındı.
+Türkiye'nin 5 yıllık dönemdeki yapay zeka çalışmalarına yön verecek ilk "Ulusal Yapay Zeka Stratejisi" 2021'de kamuoyuna tanıtıldı. Bununla aralarında en az 50 bin kişilik istihdam, GSYH'ye yüzde 5'lik katkı ve uluslararası yapay zeka endekslerindeki sıralamada ilk 20 ülke arasında girmek gibi hedefler konuldu.
+Böylece Türkiye'de 2017 yılında toplam 10 olan yapay zeka girişimi sayısı bu yıl itibarıyla 600'e ulaştı.
+Yeni projeler yolda
+Türkiye'de yapay zeka ekosistemini geliştirmek için siber güvenlikten AR-GE'ye, politika ve stratejilerin belirlenmesinden mevzuata kadar geniş kapsamda eşzamanlı çalışmalar devreye alınıyor.
+Bu kapsamda Dijital Avrupa Programı ile yüksek başarımlı hesaplama, yapay zeka, veri ve siber güvenlik alanlarında kritik dijital altyapıların kurulması ve stratejik öneme sahip yenilikçi dijital teknolojilerin geliştirilmesi desteklenecek. İkinci aşamada kurulan altyapıların ve dijital teknolojilerin KOBİ'lerin, kamu kurumlarının ve vatandaşların erişimine açılması ve kullanımı yaygınlaştırılacak.
+İşletmelerin Bakanlığa, bir yol haritası ve yatırım planı çerçevesinde sunduğu dijital dönüşüm projeleri "Dijital Dönüşüm Destek Programı" kapsamında teşvik belgesine konu edilecek.
+Sanayide Dijital Dönüşüm IPA Projesi ile imalat sanayisinin dijital dönüşümüne yönelik politika ve uygulama altyapısı güçlendirilecek ve dijital dönüşüm ekosistemi geliştirilecek.
+Anadolu Ajansı web sitesinde, AA Haber Akış Sistemi (HAS) üzerinden abonelere sunulan haberler, özetlenerek yayımlanmaktadır. Abonelik için lütfen iletişime geçiniz.

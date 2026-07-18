@@ -1,0 +1,8 @@
+İSTANBUL (AA) - Toyota, gaz pedalına istemsiz basılarak yaşanan kazaları önlemek amacıyla yeni araçlara kademeli olarak "Artı Destek" sistemini ekleyecek.
+Toyota açıklamasına göre, Artı Destek sistemi, sürücünün gaz pedalına istemsiz olarak bastığını algılayarak sesli ve görsel olarak uyarı verirken aynı zamanda aracın kontrolsüz olarak hızlanmasını engelliyor.
+"Kontrollü Hızlanma Fonksiyonu" sistemini geliştiren Toyota, gaz pedalına yanlışlıkla basılarak oluşan kazaların önüne geçilmesini veya hasarın şiddetini azaltmayı hedefliyor.
+Marka, 1 Temmuz'dan itibaren bu sistemi yeni araçlar için "Artı Destek" ismiyle sunmayı planlarken, mevcut araçlar için ise "Gaz Pedalına Kazara Basma Kontrolü Sistemi II" ile adapte edecek.
+Hızlanma ünitesindeki hata kaynaklı kazaların engellenmesi ve zararın olabildiğince azaltılması amacıyla Toyota ilk olarak, 2012 yılında Akıllı Mesafe Sonarı'nı (ICS) devreye almıştı.
+Marka, 2018'den bu yana ise "Gaz Pedalına Kazara Basma Kontrolü Sistemi"ni kullanmaya başladı.
+Mevcut sistemde sensörler, duvar veya cam gibi engelleri algılayarak kontrolsüz gaz pedalına basılmasıyla yaşanacak kazaları önlüyor.
+Toyota'nın elde ettiği verilere göre ICS, gaz pedalının kontrolsüz kullanılmasıyla oluşabilecek tüm potansiyel kazaları yüzde 70 oranında engelleyebiliyor.

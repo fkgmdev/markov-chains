@@ -1,0 +1,8 @@
+İSTANBUL (AA) - Tofaş, dünyanın en önemli kalite enstitülerinden olan The CQI (Chartered Quality Institute) tarafından ödüllendirildi.
+Tofaş'tan yapılan açıklamaya göre, dünyanın en önemli kalite enstitülerinden The CQI'ın düzenlediği "Uluslararası Kalite Ödülleri (International Quality Awards)", Londra'da gerçekleştirilen törenle sahiplerini buldu.
+Uluslararası Kalite Ödülleri'nde, Tofaş'ın geliştirdiği Garanti 4.0 Tahminleme Sistemi "Geliştirme Sistemleri" kategorisinde birincilik ödülüne layık görüldü.
+Törende Tofaş adına ödülü, Kalite Metot ve Planlama Yöneticisi Özcan Çavuşoğlu ile Kalite Metot ve Planlama Uzmanı Hakan Ersoy aldı.
+En önemli tüketici KPI'ı olan garanti maliyetlerinin tahmin ve iyileştirilmesine yönelik geliştirilen yazılım, ürün üzerinde yaşanacak olası kalite sorunları oluşmadan elimine edilmesine imkan yaratarak müşteri memnuniyetine olumlu katkı sağlıyor.
+- Yapay zekayla maliyetler önceden biliniyor
+2017'de çalışmalarına başlanan Garanti 4.0 Tahminleme Sistemi'nin çıkış noktası, manuel yöntemlerle limitli veri analizi yapabilen klasik yazılımlar yerine geliştirilen iş zekası çözümü oldu. Sistem, tamamen Tofaş çalışanları tarafından yaklaşık 2 yıllık bir çalışmanın sonucunda daha çok veri analizine hazır hale getirilerek gelişimini tamamladı.
+Araçların geçmiş garanti maliyeti verilerini 100'den fazla olasılık ve binden fazla algoritmaya tabi tutan Garanti 4.0 Tahminleme Sistemi, gelecek yıllarda ortaya çıkabilecek garanti maliyeti harcamalarını yüzde 95 doğrulukla tahmin edebiliyor. Böylece hem maliyetlerden hem de zamandan önemli ölçüde tasarruf sağlanıyor.

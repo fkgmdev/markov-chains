@@ -1,0 +1,10 @@
+İSTANBUL (AA) - Koç Üniversitesi internet üzerinden ders içeriği paylaşım sitesi Coursera ile işbirliğine gitti.
+Koç Üniversitesi açıklamasına göre, işbirliği kapsamında, platforma ücretsiz üye olan öğrenciler, dünyanın sayılı bilim insanlarının ders videolarını ücretsiz izleyebilecek.
+Öğrenciler Coursera'ya giriş yaparak ilgilerini çeken derslerin hangi dilde çevirisinin yayınlanacağı hakkında güncellenmiş bilgileri takip ederek, o dersi izleyebilecek.
+Türkiye'de Koç Üniversitesi'nin üye olduğu bu platformda ilk olarak Koç Üniversitesi Doktora (PhD.) öğrencileri tarafından ilk kez Türkçe'ye çevrilen üç ders yayına girdi.
+Pennsylvania Üniversitesi Öğretim Üyesi Doçent Doktor (Doç. Dr.) Kevin Werbac'ın "Gamification", Stanford Üniversitesi'nden Doç Dr. Scott Klemmer'ın "Human Computer Interaction" ve Wesleyan Üniversitesi'nden Scott Higgins'in "Hollywood Historical Film" başlıklı ders videoları Türkçe altyazılı ve ücretsiz olarak Coursera'da yayınlanıyor.
+İnternet üzerinden ücretsiz ders yayınlayan Coursera, Stanford Üniversitesi'nden Bilgisayar Bilimleri profesörleri Andrew Ng ve Daphne Koller tarafından kurulmuş, bir sosyal girişim platformudur.
+Platformda, Coursera'nın partneri olan Amerika ve Avrupa'daki önde gelen üniversitelerden, çeşitli öğretim üyelerinin ders videoları bulunuyor.
+Coursera küresel çeviri ortakları aracılığı ile konu başlıkları belirlenmiş derslerin tamamını Rusça, Portekizce, Türkçe, Japonca, Ukrayna, Kazakistan ve Arapça'ya çeviriyor.
+Coursera, açık çevirimiçi ders sağlayıcısı, sekiz farklı ülkeden önde gelen eğitim kurumlarıyla disiplinlerarası derslerin tüm içeriklerini çevirerek yayınlamak üzere çeviri işbirliği yapıyor.
+Üniversiteler arası işbirliğiyle eğitim konularını sürekli genişleten Coursera, mühendislik, beşeri bilimler, tıp, biyoloji, sosyal bilimler, matematik, fizik, işletme, hukuk ve daha birçok alanda ders yayınlamaktadır.

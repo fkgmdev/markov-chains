@@ -1,0 +1,12 @@
+Google isteyen kullanıcılarının verilerini otomatik silecek
+ABD'li teknoloji devi Google, kullanıcıların konum geçmişine ve internet aktivitelerine dair verilerin otomatik silinmesini mümkün kılacak.
+İstanbul
+ABD'li teknoloji devi Google, kullanıma sunacağı yeni özellik sayesinde kullanıcıların konum geçmişine ve internet aktivitelerine dair verilerin otomatik silinmesine izin verecek.
+Teknoloji haberleri sitesi The Verge'nin haberine göre, Google, mayıs ayında duyurduğu kullanıcıların konum ve aktivite verilerini otomatik silmeye imkan tanıyan yeni özelliğini kullanıma sunmaya hazırlanıyor.
+Şirket tarafından Kaliforniya'da düzenlenen geliştirici etkinliği "Google I/O 2019"da, kullanıcı gizliliğinin ve veri güvenliğinin önemi vurgulanmıştı. Google'nin kullanıma sunacağı bu yeni özellik, Apple gibi teknoloji devlerinin kullanıcılarına veri yönetimi konusunda daha fazla imkan sağlamasının ardından duyuruldu.
+Kullanıcıların veri yönetimi yapmasına imkan veren bu uygulamalar, kullanıcı verilerinin üçüncü parti uygulamalar tarafından nasıl kullanıldığı ve şirketlerin kullanıcıların hangi verilerine sahip olduğuna dair detaylı bilgi sağlıyor.
+Kullanıcı verileri, 18 aydan sonra otomatik silinecek
+Google kullanıcıları, istedikleri zaman konum geçmişi ve internet aktivitelerine dair verilerini hesaplarının "ayarlar" kısmından silebiliyordu. Ancak kullanıma sunulacak özellikle beraber kullanıcılar, 3 ve 18 ay arasında bir süre belirleyerek verilerinin sistem tarafından belirlenen süre içerisinde otomatik silinmesini talep edebilecek.
+Verilerinin otomatik olarak silinmesini talep eden kullanıcıların herhangi bir zaman dilimi belirtmemesi halinde veriler, 18 ay saklanacak ve 18 aydan eski veriler otomatik olarak silinecek.
+Google tarafından duyurulan bu yeni özelliğin, gelecek haftalarda Android ve iOS platformlarında kullanıma sunulması planlanıyor.
+Anadolu Ajansı web sitesinde, AA Haber Akış Sistemi (HAS) üzerinden abonelere sunulan haberler, özetlenerek yayımlanmaktadır. Abonelik için lütfen iletişime geçiniz.

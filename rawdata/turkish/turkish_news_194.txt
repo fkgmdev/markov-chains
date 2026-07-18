@@ -1,0 +1,14 @@
+Microsoft'tan teknik aksaklığa ilişkin açıklama: Sorunu hafifletici önlemler alınmaya devam ediyor
+Microsoft, Microsoft 365 uygulama ve hizmetlerine erişimde aksaklık yaşandığını ancak sorunu hafifletici önlemler alınmaya devam edilirken hizmetlere erişimde iyileşme görüldüğünü bildirdi.
+Londra
+Microsoft 365'in internet sitesinde yer alan açıklamada, Microsoft 365 uygulamaları ve hizmetleri için etki azaltma çalışmalarına devam edildiği belirtildi.
+- Dünya genelinde hava yolu şirketleri ve bankalar dahil birçok sistemde teknik aksaklık yaşanıyor
+- BTK: Kesintilerin CrowdStrike ürününü kullanan kurum ve kuruluşlarda meydana geldiği tespit edildi
+Mevcut sorunun çeşitli Microsoft 365 uygulamalarını ve hizmetlerini kullanmaya çalışan tüm kullanıcıları etkiliyor olabileceği ifade edilen açıklamada, etkilenen uygulama ve hizmetler arasında Microsoft Defender, Microsoft Teams, Microsoft Purview ve OneDrive'ın da bulunduğu bilgisi verildi.
+Sorunun ana nedeni olarak Azure bulut sistemindeki bir yapılandırma değişikliğinden dolayı depolama ve bilgi işlem kaynakları arasında yaşanan kesintiye işaret edildi.
+Açıklamada, "Biz hafifletici önlemler almaya devam ederken hizmetlerimizde sürekli iyileştirmeler görülüyor." ifadesi kullanıldı.
+Microsoft'a siber güvenlik yazılımı sağlayan CrowdStrike'in sistemlerindeki aksaklık sonrası dünya çapında işletmeleri etkileyen büyük bir kesinti yaşanıyor.
+"Ulusal Siber Olaylara Müdahale Merkezi tarafından yapılan açıklama, yaşanan aksaklığın siber saldırı kaynaklı olmadığını göstermektedir"
+Microsoft tarafından yapılan açıklamada, üçüncü parti bir yazılım platformunun güncellemesinden kaynaklanan sorunun Windows işletim sistemi kullanan cihazları etkilediği belirtilerek şu ifadelere yer verildi:
+"Söz konusu üçüncü parti yazılım platformu sorunun en hızlı şekilde çözülmesi için çalışmalarını sürdürürken, bizim de Microsoft olarak müşterilerimize ve iş ortaklarımıza gerekli desteği verdiğimizi belirtmek isteriz. Ulusal Siber Olaylara Müdahale Merkezi tarafından yapılan açıklama, yaşanan aksaklığın siber saldırı kaynaklı olmadığını göstermektedir."
+Anadolu Ajansı web sitesinde, AA Haber Akış Sistemi (HAS) üzerinden abonelere sunulan haberler, özetlenerek yayımlanmaktadır. Abonelik için lütfen iletişime geçiniz.

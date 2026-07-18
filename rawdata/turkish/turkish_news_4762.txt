@@ -1,0 +1,11 @@
+Şehir hastanesinde 'hastaya özel menü' hizmeti
+Kayseri Şehir Hastanesinde, "Hasta-Kimlik-Yemek Tipi Doğrulama Modülü" uygulamasıyla hastaya özel yemek hizmeti veriliyor.
+Kayseri
+Kayseri Şehir Hastanesinden yapılan açıklamaya göre, hastalar için yemek yapımında kullanılan tüm ürünler diyetisyen ve gıda mühendisleri tarafından belirlenerek, teslim alınışından saklanmasına, temizlenmesine, doğranmasına ve pişirilmesine kadar her süreç titizlikle takip ediliyor ve hastalara kaliteli yemek hizmeti veriliyor.
+Lezzet ve sunumdaki özenin yanı sıra hastalara diyetisyenler tarafından belirlenen "kişiye özel" hazırlanmış menüler sunuluyor.
+Beslenmede hasta güvenliğini tehlikeye atacak riskleri ortadan kaldıran bu sistemde, hasta diyetine göre özel olarak hazırlanan yemeklerin sunumu, hasta bilgilerini içeren barkodlu tepsilerle yapılıyor.
+Hasta bilgilerini içeren barkodun yapıştırıldığı tepsilere konulan yemekler, görevli tarafından hastanın kolundaki tanıtım bilekliğinde bulunan barkodla eşleştirildikten sonra hastaya teslim ediliyor. Herhangi bir eşleşme hatasında ise sistem uyarı veriyor.
+Açıklamada görüşlerine yer verilen hazır yemek firması bölge yöneticisi Uğur Palamut, hastane personeline, tedavi gören hastalara ve yakınlarına sunulan yemeklerin büyük bir titizlik ve özenle hazırlandığını bildirdi.
+Yatan hastaların diyetlerinin doktorlar ve diyetisyenler tarafından belirlendiğini ifade eden Palamut, şu bilgileri verdi:
+"Sonrasında bu yemek listelerinin sistemimize girişi yapılır. Sistemden çektiğimiz verilerde hastanın oda numarası, ismi, diyeti hepsi ayrıntılı bir şekilde yazar. Aynı zamanda kullanmış olduğumuz sistemde her hastanın diyeti kendisine özgüdür. Hasta tepsisine yapıştırılan barkodla bileğindeki barkod el terminal cihazlarımız yardımıyla eşleştirilerek, doğru yemeğin doğru hastaya doğru zamanda ulaşması sağlanır."
+Anadolu Ajansı web sitesinde, AA Haber Akış Sistemi (HAS) üzerinden abonelere sunulan haberler, özetlenerek yayımlanmaktadır. Abonelik için lütfen iletişime geçiniz.

@@ -1,0 +1,22 @@
+Yapay zekada Türkiye'nin hedefleri büyük
+Türkiye'nin günlük yaşamda kullanımı giderek artan yapay zeka teknolojileri alanında dünyanın büyük oyuncuları arasında yer alabileceği belirtiliyor.
+Ankara
+AA'nın, "Yapay Zeka Çağına Doğru" başlıklı dosyasının beşinci haberinde yapay zeka teknolojilerinin Türkiye'nin yazılım sektörüne etkileri ele alındı.
+Türkiye Yazılımcılar Federasyonu (TÜYAFED) Genel Başkanı Mustafa Çalış, büyük dil modellerinin (LLM) metinleri işlemek, anlamak ve oluşturmak için tasarlanmış gelişmiş yapay zeka sistemleri olduğunu dile getirdi.
+Çalış, yapay zekanın savunma, telekomünikasyon ve sağlık sektörlerindeki olumlu etkilerini ve bunun ihracata yansımalarını gördüklerini söyledi.
+Türkiye'nin dünyanın ilk 10 ekonomisi arasına yazılım ve teknolojinin gücüyle taşınabileceğini ifade eden Çalış, "Ülke olarak ilk 10 ekonomiye girmek istiyorsak eğitim, üretim ve ihracat üçgeni üzerinde büyük yatırımlar yapılması gerekmektedir. Son yıllarda ihracatın artması için devlet tarafından verilen hibe ve desteklerle yıllık hacmin 10 milyar dolara çıkması hedeflenmektedir." dedi.
+Çalış, yapay zeka alanında yeni yatırımlar ve çalışmalar yapıldığını dile getirerek, "Bu çalışmalarla yapay zekanın istihdam sorunları oluşturacağını düşünmüyorum." dedi.
+"Gençlerle 'yazılım devrimi' yapılacak"
+Türkiye'deki yapay zeka çalışmalarına da değinen Çalış, şunları kaydetti:
+"Ülkemizde yapay zeka etki alanının 2025-2030 yıllarında daha fazla artacağını, Türkiye'nin küresel alanda büyük bir oyuncu olacağını ve ülke olarak global yarış içinde olacağımızı düşünüyorum. Türkiye'nin ülkenin en büyük sermayesi olan gençlerle 'yazılım devrimi' yapacağına ve hak ettiği yerde olacağına inanıyorum."
+"Yapay zeka ile istihdam çeşitlenecek"
+Federasyonun Genel Sekreteri Cansın Duman da yazılımcıların yapay zeka kullanımı ve bilgi kapsamlarını genişletmelerinin olumlu etkiler yaratacağını belirtti.
+Yapay zekanın entegrasyonuyla organizasyonların farklı alanlarda da üretim gücüne sahip olabileceklerini ifade eden Duman, "Mevcut iş gücünün bu durumdan kısa zamanda zarar görmeyeceğini belirtebiliriz. Yapay zeka ile yeni çalışma alanları ve pozisyonlar açığa çıkacak ve istihdam çeşitlenecektir." diye konuştu.
+Duman, şirketlerin de yapay zekanın iş gücü hacmini daraltacağına dair varsayımlarını doğru şekilde yönetmelerinin önemine dikkati çekti.
+"Yapay zeka kusursuza yakın bir hale gelecek"
+Federasyonun Yazılım Komitesi Başkanı İlker Yıldızak da yapay zekada beklentilerin öngörülenden çok daha erken gerçekleştiğini ifade ederek, "Yapay zeka, daha çok meslek yaşı genç olan yazılımcıların araştırma ve örnek bulma sürelerini kısalttı. Tecrübeli yazılımcıların ise 'basit ama zaman alan' işlerini hızlandırdı. En az iki nesil daha yazılımcılar için bu şekilde devam edeceğini öngörebiliriz." değerlendirmesinde bulundu.
+Yapay zekanın, geçmişe göre önemli işler başarsa da henüz emekleme aşamasında olduğunu belirten Yıldızak, yapay zeka kullanımının Türkiye'de dünyaya paralel seyrettiğini vurguladı.
+Yıldızak, yapay zekanın yazılım sektörüne daha fazla etkisinin olacağına işaret ederek, "Yazılım geliştirmeye destek amaçlı olarak 2028'in 3. veya 4. çeyreğinde dünyayla Türkiye'de de yapay zekanın ağırlığını daha fazla hissedeceğiz." dedi.
+Yapay zekanın yazılım geliştirme sektöründe kullanımına da değinen Yıldızak, şunları kaydetti:
+"Yapay zeka yazılım geliştirme hususunda şu anda ve gelecekte de 'insanların zaten akıl edip yapabildiği fakat bunun zaman aldığı' işleri hayal edilemeyecek biçimde hızlandırmak için kullanılacaktır. Yapay zeka, düşük ve orta düzeyde karmaşık algoritmaların yapımı için gittikçe gelişecek ve kusursuza yakın bir hale gelecektir. Uzun vadede teknoloji neler getirir bilinmez ancak sistemlerin birbirleri ile haberleşmeleri gereken, özellikle siber güvenliğin önem arz ettiği veya kapalı devre çalışması gereken özel sistemlerde kullanımı zor görünüyor. Çünkü yapay zeka, erişebildiği veriler arasında süzme işlemleri yaparak istatistiksel olarak doğruya en yakın sonucu kullanıcıya sunuyor."
+Anadolu Ajansı web sitesinde, AA Haber Akış Sistemi (HAS) üzerinden abonelere sunulan haberler, özetlenerek yayımlanmaktadır. Abonelik için lütfen iletişime geçiniz.

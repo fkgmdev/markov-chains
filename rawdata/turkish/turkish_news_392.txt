@@ -1,0 +1,6 @@
+Ankara
+Çinli bir bilimsel araştırma ekibi, kanserin patolojik görüntülerini detaylı okuyabilen çok yönlü bir yapay zeka modeli geliştirdi.
+Çin'de bulunan Hava Kuvvetleri Tıp Üniversitesi, Tsinghua Üniversitesi ve yapay zekaya bağlı teknolojileri üreten SenseTime'dan araştırmacılar, ülkedeki yerel verilerden yaklaşık 300 bin dijital patoloji görüntüsü kullandı.
+Araştırmada, çok yönlü yapay zeka modelinin 20'den fazla organı analiz edebildiği belirtildi. Bunların içerisinde pan-kanser sınıflandırması, lezyon tanımı, çoklu kanser ve biyobelirteç değerlendirmesi gibi maddelerin de bulunduğu aktarıldı.
+"PathOrchestra" adı verilen çok yönlü yapay zeka uygulamasının 50'ye yakın kanser vakasında yüzde 95'i aşan bir doğruluk oranına ulaştığı kaydedildi.
+Uygulamanın Çin'in yapay zeka alanındaki hızlı büyümesinin bir göstergesi olduğu da belirtildi.

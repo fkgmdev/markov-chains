@@ -1,0 +1,22 @@
+Yapay zekanın tavsiyeleri hastaları yanlış yönlendirebiliyor
+Kardiyoloji uzmanı Doç. Dr. Muhammed Keskin, "Yapay zeka ülkemizde olmayan bir ilacı hastaya sunuyor ve hastamız bu ilaçları arıyor. Yapay zekanın verdiği sonuçlara biraz daha şüpheci yaklaşmak lazım." dedi.
+İstanbul
+"Yapay Zeka: Kişisel Veriler, Algoritmalar ve Tehditler" başlıklı dosya haberin dördüncü bölümünde AA muhabiri, yapay zekanın sağlık alanında kullanımına yönelik sonuçları ele aldı.
+AA muhabirinin derlediği bilgilere göre, birçok alanda yeni uygulamaların hayata geçmesini sağlayan yapay zeka, sağlık sektöründe de çeşitli avantajlar sunuyor.
+Hastalıkların erken teşhisi, kişiselleştirilmiş tedavi planlarının oluşturulması ve sağlık hizmetlerinin veriminin artırılması gibi birçok alanda yapay zekadan yararlanılabiliyor. Bu avantajların yanı sıra yapay zekanın hastalar tarafından kullanımında çeşitli riskler bulunuyor. Hastalık belirtilerinin veya tahlil sonuçlarının yapay zekaya yorumlatılması hastaları yanlış yönlendirebiliyor.
+Kardiyoloji uzmanı Doç. Dr. Muhammed Keskin, konuya ilişkin AA muhabirine açıklamada bulundu.
+Kan tahlili sonuçlarını yapay zekaya yazıp bir fikir edinerek muayeneye gelen hastaların olduğunu belirten Keskin, insanların doktora soru sorarak zaman geçirmek yerine kafasındaki soruları yapay zeka sorduğunu söyledi.
+Hastalar açısından yapay zekanın verdiği çıktılara hazırlıklı olunmadığını aktaran Keskin, şunları kaydetti:
+"Hastam sonuçlarını yapay zekaya yazmış, iki farklı yapay zekadan bir tanesi biraz daha iyi huylu bir sonuç vermiş. Verdiği sonuca göre sadece beslenmesine dikkat etse süreç bitecek. Halbuki hastanın kalp damar sertleşmesi zemini ortaya çıkmış, bir kalp damar problemi ve mutlaka kullanması gereken ilaçları var.
+Hastam bunun önemli bir durum olmadığını söyledi. Yapay zekaya yazmasa durumun önemiyle ilgili bir bilgi vereceğim ama hastalar artık kafasındaki soru işaretlerini kendisi toparlamak istiyor."
+Fotoğraf: Tolga Yanık/AA
+"Hastalar yapay zekanın verdiği sonuçlara şüpheci yaklaşmalı"
+Keskin, "Yapay zekanın verdiği sonuçlarla fikir edinmek yerine 'Hocam böyle bir şey diyorlar doğru mu?' demek, biraz daha şüpheci yaklaşmak lazım." dedi.
+Aynı raporun bir diğer yapay zekaya yorumlatıldığında çok daha kaotik bir sonuç çıktığına işaret eden Keskin, "Kalp krizi geçirebilirsin, her an ölebilirsin diyor. Çıkan 6-7 tane ilaç var. Bu ilaçların bazılarını hiç kullanmıyoruz, 1980'lerde kalmış ilaçlar. Yapay zeka bunu kullanırken bununla ilgili arama motorlarında ilişkilendirilmiş tüm tedavi yöntemlerini öne çıkarıyor. Ülkemizde olmayan bir ilacı hastaya sunuyor ve hastamız bu ilaçları arıyor." diye konuştu.
+Keskin, yapay zekanın kullanımının insanları bilinçlendirme yönünde olması gerektiğini belirterek, "Bir kişi sağlık alanında yapay zekaya 10'dan fazla soru soruyorsa kaygı bozukluğu yükseliyor demektir. Doğru cevabı bulma ihtimali yoktur." ifadesini kullandı.
+"Doktorların etkin kullandığı yapay zeka sistemleri var"
+Doktorlar açısından ise yapay zekanın etkin kullanıldığı uygulamalar olduğuna değinen Keskin, sözlerini şöyle sürdürdü:
+"EKG'yle ilgili çok fazla yapay zeka çalışması var. Ekokardiyografiyle ilgili kullanıyoruz çünkü artık güveniyoruz. Cihazların kendi işletim sisteminin verdiği ve yapay zekanın yorumladığı değerlere güveniyoruz. Yurt dışında bazı ülkelerde kalp ultrasonunu doktor değil bir teknisyen çekiyor. Teknisyen belli verileri buraya girdiğinde yapay zeka bu kişide kalp yetmezliği mi, damar sertliği mi, kapak kaçağı mı var bunu verebiliyor. Biz bunları kullanıyoruz çünkü 10 yıllardır kullanılan ve artık tedaviye girmiş bir şey.
+Yakın zamana kadar hep geleneksel anjiyo yapardık artık sanal anjiyo çıktı ve gerçek anjiyo ihtiyacımızı üçte bire indirdi. Bizim anjiyoda damar içerisine tel göndererek aldığımız ölçümleri yapay zeka tel göndermeden verebiliyor. Böylece hastanın damarında yüzde kaç darlık olduğunu görebiliyoruz. Bu muazzam bir şey."
+Akıllı saatlerin de birçok sağlık verisini kullanıcılara sunduğunu anlatan Keskin, "Doktor olarak bu verileri hasta bana gösterdiğinde 'ya onu boş ver, sen bu testi yaptır gel' demek yerine cihazın verdiği verileri hastayla beraber tartışabilmek lazım. Akıllı saatler EKG çekiyor, insanlar artık sürekli nabzını ölçüyor. Bu nabız değerlerine göre biz birçok hastalığı tespit edebiliyoruz." diye konuştu.
+Anadolu Ajansı web sitesinde, AA Haber Akış Sistemi (HAS) üzerinden abonelere sunulan haberler, özetlenerek yayımlanmaktadır. Abonelik için lütfen iletişime geçiniz.
