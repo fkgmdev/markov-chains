@@ -1,22 +1,20 @@
 #[allow(unused)]
 use itertools::Itertools;
-use std::{fs, process};
 use std::env::args;
 use std::time::Instant;
+use std::{fs, process};
 
 fn is_vowel(a: char, vowels: &str, consonants: &str) -> bool {
     let lower = a.to_lowercase().next().unwrap_or(a);
     if vowels.chars().contains(&lower) {
-        return true
-    }
-    else if consonants.chars().contains(&lower) {
-        return false
+        return true;
+    } else if consonants.chars().contains(&lower) {
+        return false;
     }
     false
 }
 
 fn list_add(paths: &[String]) {
-    
     let mut list = fs::read_to_string("list.txt").unwrap_or_default();
     for path in paths {
         let pathsplit: Vec<&str> = path.split("/").collect();
@@ -33,19 +31,32 @@ fn analyze(vowels: &str, consonants: &str, args: Vec<&str>) {
     let language = &args[1];
     let fullpath: Vec<&str> = args[0].split("/").collect();
     let path = fullpath[2];
-    let mut cc = 0;
-    let mut cv = 0;
-    let mut vc = 0;
-    let mut vv = 0;
+    let mut vvv = 0;
+    let mut vvc = 0;
+    let mut vcv = 0;
+    let mut vcc = 0;
+    let mut cvv = 0;
+    let mut cvc = 0;
+    let mut ccv = 0;
+    let mut vvv = 0;
+
     let mut cons = 0;
     let mut vow = 0;
-    for (a1, a2) in a.chars().tuple_windows() {
-        if a1.is_alphabetic() && a2.is_alphabetic() {
-            match (is_vowel(a1, &vowels, &consonants), is_vowel(a2, &vowels, &consonants)) {
-                (false, false) => {cc += 1;}
-                (false, true) => {cv += 1;}
-                (true, false) => {vc += 1;}
-                (true, true) => {vv += 1;}
+    for (a1, a2, a3) in a.chars().tuple_windows() {
+        if a1.is_alphabetic() && a2.is_alphabetic() && a3.is_alphabetic() {
+            match (
+                is_vowel(a1, &vowels, &consonants),
+                is_vowel(a2, &vowels, &consonants),
+                is_vowel(a3, &vowels, &consonants),
+            ) {
+                (true, true, true) => vvv += 1,
+                (true, true, false) => vvc += 1,
+                (true, false, true) => vcv += 1,
+                (true, false, false) => vcc += 1,
+                (false, true, true) => cvv += 1,
+                (false, true, false) => cvc += 1,
+                (false, false, true) => ccv += 1,
+                (false, false, false) => vvv += 1,
             }
         }
     }
@@ -53,20 +64,30 @@ fn analyze(vowels: &str, consonants: &str, args: Vec<&str>) {
         if char.is_alphabetic() {
             if is_vowel(char, vowels, consonants) {
                 vow += 1;
-            }
-            else {
+            } else {
                 cons += 1;
             }
         }
     }
-    let total = cc + cv + vc + vv;
-    let ccp = (cc as f64 / total as f64) * 100.00;
-    let cvp = (cv as f64 / total as f64) * 100.00;
-    let vcp = (vc as f64 / total as f64) * 100.00;
-    let vvp = (vv as f64 / total as f64) * 100.00;
+    let total = vvv + vvc + vcv + vcc + cvv + cvc + ccv + vvv;
+    let vvvp = (vvv as f64 / total as f64) * 100.00;
+    let vvcp = (vvc as f64 / total as f64) * 100.00;
+    let vcvp = (vcv as f64 / total as f64) * 100.00;
+    let vccp = (vcc as f64 / total as f64) * 100.00;
+    let cvvp = (cvv as f64 / total as f64) * 100.00;
+    let cvcp = (cvc as f64 / total as f64) * 100.00;
+    let ccvp = (ccv as f64 / total as f64) * 100.00;
+    let vvvp = (vvv as f64 / total as f64) * 100.00;
+
     let ratio = (cons as f64 / vow as f64) * 100.00;
-    println!("CC:{:.4}% CV:{:.4}% VC:{:.4}% VV:{:.4}% C/V:{:.4}%", ccp, cvp, vcp, vvp, ratio);
-    let write = format!("{language} CC:{:.4}% CV:{:.4}% VC:{:.4}% VV:{:.4}% C/V:{:.4}% Path: {path}\n", ccp, cvp, vcp, vvp, ratio);
+    println!(
+        "VVV:{:.4}% VVC:{:.4}% VCV:{:.4}% VCC:{:.4}% CVV:{:.4}% CVC:{:.4}% CCV:{:.4}% VVV:{:.4}%",
+        vvvp, vvcp, vcvp, vccp, cvvp, cvcp, ccvp, vvvp,
+    );
+    let write = format!(
+        "{language} VVV:{:.4}% VVC:{:.4}% VCV:{:.4}% VCC:{:.4}% CVV:{:.4}% CVC:{:.4}% CCV:{:.4}% VVV:{:.4}% C/V:{:.4}% CPath: {path}\n",
+        vvvp, vvcp, vcvp, vccp, cvvp, cvcp, ccvp, vvvp, ratio,
+    );
     let write = fs::read_to_string("data.txt").unwrap() + &write;
     fs::write("data.txt", write).unwrap();
 }
@@ -89,8 +110,7 @@ fn main() {
         if args[2] == "clear" {
             fs::write("list.txt", "").unwrap();
             process::exit(0);
-        }
-        else if args[2] == "add" {
+        } else if args[2] == "add" {
             list_add(&args[3..length]);
             process::exit(0);
         }
@@ -99,7 +119,13 @@ fn main() {
     let length = list.len();
     for (index, line) in list.iter().enumerate() {
         let options: Vec<&str> = line.split("-").collect();
-        print!("Processing: [{}/{}] {} {}: ", index + 1, length, &options[0], &options[1]);
+        print!(
+            "Processing: [{}/{}] {} {}: ",
+            index + 1,
+            length,
+            &options[0],
+            &options[1]
+        );
         analyze(vowels, consonants, options);
     }
     let duration = start.elapsed();
