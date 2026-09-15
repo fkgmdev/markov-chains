@@ -1,10 +1,8 @@
 use crate::logic::is_vowel;
-use itertools::Itertools;
-use std::fs;
 pub mod analyze;
 pub mod logic;
 
-struct Profile {
+pub struct Profile {
     name: String,
     vvvp: f64,
     vvcp: f64,

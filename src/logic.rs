@@ -15,7 +15,7 @@ pub fn list_add(paths: &[String]) {
     for path in paths {
         let pathsplit: Vec<&str> = path.split("/").collect();
         let language = pathsplit[1];
-        let contents = format!("{path}-{language} \n");
+        let contents = format!("{path}-{language}\n");
         list.push_str(&contents);
     }
     fs::write("list.txt", list).unwrap();

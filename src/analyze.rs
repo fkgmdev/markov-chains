@@ -1,8 +1,8 @@
-use crate::is_vowel;
+use crate::{Profile, is_vowel};
 use itertools::Itertools;
-use std::fs;
+use std::{fs, io};
 
-pub fn analyze(vowels: &str, consonants: &str, args: Vec<&str>) {
+pub fn analyze(vowels: &str, consonants: &str, args: Vec<&str>) -> Profile {
     let a = fs::read_to_string(args[0]).unwrap();
     let language = &args[1];
     let fullpath: Vec<&str> = args[0].split("/").collect();
@@ -61,10 +61,41 @@ pub fn analyze(vowels: &str, consonants: &str, args: Vec<&str>) {
         "VVV:{:.4}% VVC:{:.4}% VCV:{:.4}% VCC:{:.4}% CVV:{:.4}% CVC:{:.4}% CCV:{:.4}% CCC:{:.4}%",
         vvvp, vvcp, vcvp, vccp, cvvp, cvcp, ccvp, cccp,
     );
+    // let write = format!(
+    //     "{language} VVV:{:.4}% VVC:{:.4}% VCV:{:.4}% VCC:{:.4}% CVV:{:.4}% CVC:{:.4}% CCV:{:.4}% CCC:{:.4}% C/V:{:.4}% Path: {path}\n",
+    //     vvvp, vvcp, vcvp, vccp, cvvp, cvcp, ccvp, cccp, ratio,
+    // );
+    // let write = fs::read_to_string("data.txt").unwrap() + &write;
+    // fs::write("data.txt", write).unwrap();
+    Profile {
+        name: language.to_string(),
+        vvvp,
+        vvcp,
+        vcvp,
+        vccp,
+        cvvp,
+        cvcp,
+        ccvp,
+        cccp,
+        cvrp: ratio,
+    }
+}
+
+pub fn write_line(stats: Profile, path: String) -> Result<(), io::Error> {
     let write = format!(
-        "{language} VVV:{:.4}% VVC:{:.4}% VCV:{:.4}% VCC:{:.4}% CVV:{:.4}% CVC:{:.4}% CCV:{:.4}% CCC:{:.4}% C/V:{:.4}% Path: {path}\n",
-        vvvp, vvcp, vcvp, vccp, cvvp, cvcp, ccvp, cccp, ratio,
+        "{};{:.4};{:.4};{:.4};{:.4};{:.4};{:.4};{:.4};{:.4};{:.4}\n",
+        stats.name,
+        stats.vvvp,
+        stats.vvcp,
+        stats.vcvp,
+        stats.vccp,
+        stats.cvvp,
+        stats.cvcp,
+        stats.ccvp,
+        stats.cccp,
+        stats.cvrp,
     );
-    let write = fs::read_to_string("data.txt").unwrap() + &write;
-    fs::write("data.txt", write).unwrap();
+    let data = fs::read_to_string(&path)? + &write;
+    fs::write(path, data)?;
+    Ok(())
 }

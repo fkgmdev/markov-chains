@@ -1,9 +1,11 @@
 #[allow(unused)]
-use itertools::Itertools;
-use markov_chains::{analyze::analyze, logic::list_add};
+use markov_chains::{
+    analyze::{analyze, write_line},
+    logic::list_add,
+};
 use std::env::args;
+use std::fs;
 use std::time::Instant;
-use std::{fs, process};
 
 fn main() {
     let start = Instant::now();
@@ -17,15 +19,14 @@ fn main() {
     if args.len() == 2 && args[1] == "redo" {
         fs::write("data.txt", "").unwrap();
     }
-    let length = args.len();
 
     if args.len() > 2 && args[1] == "list" {
         if args[2] == "clear" {
             fs::write("list.txt", "").unwrap();
-            process::exit(0);
+            return;
         } else if args[2] == "add" {
-            list_add(&args[3..length]);
-            process::exit(0);
+            list_add(&args[3..]);
+            return;
         }
     }
 
@@ -39,7 +40,9 @@ fn main() {
             options[0],
             options[1]
         );
-        analyze(vowels, consonants, options);
+        if let Err(e) = write_line(analyze(vowels, consonants, options), "data.txt".to_string()) {
+            eprintln!("failed: {e}");
+        }
     }
     let duration = start.elapsed();
     println!("Done! in {:?}", duration);
