@@ -1,22 +1,9 @@
 #[allow(unused)]
 use itertools::Itertools;
-use markov_chains::{analyze, list_add};
+use markov_chains::{analyze::analyze, logic::list_add};
 use std::env::args;
 use std::time::Instant;
 use std::{fs, process};
-
-struct Profile {
-    name: String,
-    vvvp: f64,
-    vvcp: f64,
-    vcvp: f64,
-    vccp: f64,
-    cvvp: f64,
-    cvcp: f64,
-    ccvp: f64,
-    cccp: f64,
-    cvrp: f64,
-}
 
 fn main() {
     let start = Instant::now();
