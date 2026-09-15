@@ -27,7 +27,7 @@ fn list_add(paths: &[String]) {
 }
 
 fn analyze(vowels: &str, consonants: &str, args: Vec<&str>) {
-    let a = fs::read_to_string(&args[0]).unwrap();
+    let a = fs::read_to_string(args[0]).unwrap();
     let language = &args[1];
     let fullpath: Vec<&str> = args[0].split("/").collect();
     let path = fullpath[2];
@@ -45,9 +45,9 @@ fn analyze(vowels: &str, consonants: &str, args: Vec<&str>) {
     for (a1, a2, a3) in a.chars().tuple_windows() {
         if a1.is_alphabetic() && a2.is_alphabetic() && a3.is_alphabetic() {
             match (
-                is_vowel(a1, &vowels, &consonants),
-                is_vowel(a2, &vowels, &consonants),
-                is_vowel(a3, &vowels, &consonants),
+                is_vowel(a1, vowels, consonants),
+                is_vowel(a2, vowels, consonants),
+                is_vowel(a3, vowels, consonants),
             ) {
                 (true, true, true) => vvv += 1,
                 (true, true, false) => vvc += 1,
@@ -123,8 +123,8 @@ fn main() {
             "Processing: [{}/{}] {} {}: ",
             index + 1,
             length,
-            &options[0],
-            &options[1]
+            options[0],
+            options[1]
         );
         analyze(vowels, consonants, options);
     }
