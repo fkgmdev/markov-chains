@@ -3,9 +3,12 @@ use markov_chains::{
     analyze::{analyze, write_line},
     logic::list_add,
 };
-use std::env::args;
 use std::fs;
 use std::time::Instant;
+use std::{
+    env::args,
+    io::{Write, stdout},
+};
 
 fn main() {
     let start = Instant::now();
@@ -32,16 +35,28 @@ fn main() {
 
     let length = list.len();
     for (index, line) in list.iter().enumerate() {
-        let options: Vec<&str> = line.split("-").collect();
-        print!(
-            "Processing: [{}/{}] {} {}: ",
-            index + 1,
-            length,
-            options[0],
-            options[1]
-        );
-        if let Err(e) = write_line(analyze(vowels, consonants, options), "data.txt".to_string()) {
-            eprintln!("failed: {e}");
+        if let Some((path, language)) = line.split_once("-") {
+            print!(
+                "Processing: [{}/{}] {} {}: ",
+                index + 1,
+                length,
+                path,
+                language
+            );
+            let _ = stdout().flush();
+            let text = match fs::read_to_string(path) {
+                Ok(str) => str,
+                Err(e) => {
+                    eprintln!("Skipped {path}: {e}");
+                    continue;
+                }
+            };
+            if let Err(e) = write_line(
+                analyze(vowels, consonants, &text, language),
+                "data.txt".to_string(),
+            ) {
+                eprintln!("failed: {e}");
+            }
         }
     }
     let duration = start.elapsed();

@@ -1,6 +1,8 @@
 use crate::logic::is_vowel;
 pub mod analyze;
 pub mod logic;
+#[cfg(test)]
+pub mod tests;
 
 pub struct Profile {
     name: String,
@@ -13,4 +15,13 @@ pub struct Profile {
     ccvp: f64,
     cccp: f64,
     cvrp: f64,
+}
+
+impl Profile {
+    pub fn to_features(&self) -> [f64; 9] {
+        [
+            self.vvvp, self.vvcp, self.vcvp, self.vccp, self.cvvp, self.cvcp, self.ccvp, self.cccp,
+            self.cvrp,
+        ]
+    }
 }

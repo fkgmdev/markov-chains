@@ -19,3 +19,14 @@ pub fn list_add(paths: &[String]) {
     }
     fs::write("list.txt", list).unwrap();
 }
+
+pub fn cosine_similarity(a: &[f64; 9], b: &[f64; 9]) -> f64 {
+    let dot_product: f64 = a.iter().zip(b.iter()).map(|(x, y)| x * y).sum();
+    let norm_a: f64 = a.iter().map(|x| x.powi(2)).sum::<f64>().sqrt();
+    let norm_b: f64 = b.iter().map(|x| x.powi(2)).sum::<f64>().sqrt();
+
+    if norm_a == 0.0 || norm_b == 0.0 {
+        return 0.0;
+    }
+    dot_product / (norm_a * norm_b)
+}

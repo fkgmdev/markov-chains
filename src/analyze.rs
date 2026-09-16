@@ -1,13 +1,13 @@
-use crate::{Profile, is_vowel};
+use crate::{Profile, is_vowel, logic::cosine_similarity};
 use itertools::Itertools;
 use std::{
     fs::{self, OpenOptions},
     io::{self, Write},
 };
 
-pub fn analyze(vowels: &str, consonants: &str, args: Vec<&str>) -> Profile {
-    let a = fs::read_to_string(args[0]).unwrap();
-    let language = &args[1];
+pub fn analyze(vowels: &str, consonants: &str, a: &str, language: &str) -> Profile {
+    // let a = fs::read_to_string(args[0]).unwrap();
+    // let language = &args[1];
     // let fullpath: Vec<&str> = args[0].split("/").collect();
     // let path = fullpath[2];
     let mut vvv = 0;
@@ -101,4 +101,18 @@ pub fn write_line(stats: Profile, path: String) -> Result<(), io::Error> {
     let mut file = OpenOptions::new().create(true).append(true).open(path)?;
     file.write_all(write.as_bytes())?;
     Ok(())
+}
+
+pub fn detect(sample: Profile, languages: &[Profile]) -> (f64, String) {
+    let (mut best, mut best_lang) = (-1.0, String::new());
+    let features = sample.to_features();
+
+    for lang in languages {
+        let dist = cosine_similarity(&features, &lang.to_features());
+        if dist > best {
+            best = dist;
+            best_lang = lang.name.clone();
+        }
+    }
+    (best, best_lang)
 }
