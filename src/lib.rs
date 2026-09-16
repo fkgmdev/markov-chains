@@ -1,9 +1,12 @@
+use serde::{Deserialize, Serialize};
+
 use crate::logic::is_vowel;
 pub mod analyze;
 pub mod logic;
 #[cfg(test)]
 pub mod tests;
 
+#[derive(Serialize, Deserialize)]
 pub struct Profile {
     name: String,
     vvvp: f64,

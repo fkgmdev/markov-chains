@@ -1,7 +1,7 @@
 use crate::{Profile, is_vowel, logic::cosine_similarity};
 use itertools::Itertools;
 use std::{
-    fs::{self, OpenOptions},
+    fs::OpenOptions,
     io::{self, Write},
 };
 

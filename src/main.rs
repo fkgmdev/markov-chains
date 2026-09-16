@@ -18,6 +18,8 @@ fn main() {
     let contents = fs::read_to_string("list.txt").unwrap();
     let list: Vec<&str> = contents.lines().collect();
 
+    let mut results = Vec::new();
+
     let args: Vec<String> = args().collect();
     if args.len() == 2 && args[1] == "redo" {
         fs::write("data.txt", "").unwrap();
@@ -51,13 +53,17 @@ fn main() {
                     continue;
                 }
             };
-            if let Err(e) = write_line(
-                analyze(vowels, consonants, &text, language),
-                "data.txt".to_string(),
-            ) {
-                eprintln!("failed: {e}");
-            }
+            results.push(analyze(vowels, consonants, &text, language));
+            // if let Err(e) = write_line("data.txt".to_string()) {
+            //     eprintln!("failed: {e}");
+            // }
         }
+    }
+
+    let json = serde_json::to_string(&results).unwrap();
+    if let Err(e) = fs::write("data.json", json) {
+        eprintln!("Failed json write: {e}");
+        return;
     }
     let duration = start.elapsed();
     println!("Done! in {:?}", duration);
