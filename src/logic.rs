@@ -1,10 +1,9 @@
-use itertools::Itertools;
-use std::{fs, process};
+use std::fs;
 pub fn is_vowel(a: char, vowels: &str, consonants: &str) -> bool {
     let lower = a.to_lowercase().next().unwrap_or(a);
-    if vowels.chars().contains(&lower) {
+    if vowels.contains(lower) {
         return true;
-    } else if consonants.chars().contains(&lower) {
+    } else if consonants.contains(lower) {
         return false;
     }
     false
@@ -19,5 +18,4 @@ pub fn list_add(paths: &[String]) {
         list.push_str(&contents);
     }
     fs::write("list.txt", list).unwrap();
-    process::exit(0);
 }

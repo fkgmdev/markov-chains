@@ -1,12 +1,15 @@
 use crate::{Profile, is_vowel};
 use itertools::Itertools;
-use std::{fs, io};
+use std::{
+    fs::{self, OpenOptions},
+    io::{self, Write},
+};
 
 pub fn analyze(vowels: &str, consonants: &str, args: Vec<&str>) -> Profile {
     let a = fs::read_to_string(args[0]).unwrap();
     let language = &args[1];
-    let fullpath: Vec<&str> = args[0].split("/").collect();
-    let path = fullpath[2];
+    // let fullpath: Vec<&str> = args[0].split("/").collect();
+    // let path = fullpath[2];
     let mut vvv = 0;
     let mut vvc = 0;
     let mut vcv = 0;
@@ -95,7 +98,7 @@ pub fn write_line(stats: Profile, path: String) -> Result<(), io::Error> {
         stats.cccp,
         stats.cvrp,
     );
-    let data = fs::read_to_string(&path)? + &write;
-    fs::write(path, data)?;
+    let mut file = OpenOptions::new().create(true).append(true).open(path)?;
+    file.write_all(write.as_bytes())?;
     Ok(())
 }
