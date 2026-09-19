@@ -26,8 +26,6 @@ Then, make a list.txt, in the format of
 ```
 path_to_file-language_of_file
 ```
-```
-```
 (check list.txt in this repository for an example, it is ready to use for all the data in rawdata/)
 
 Then, generate the profiles for each language using
@@ -47,9 +45,3 @@ to detect from a file.
 
 ### Note:
 The detect command also has a -d argument, if your profile list isn't named the default filename (profiles.json), you have to specify the path for it using -d profiles_list_path.
-```
-```
-```
-```
-```
-```
