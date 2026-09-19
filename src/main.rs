@@ -1,14 +1,9 @@
 use clap::Parser;
-use markov_chains::{
+use phonotax::{
     Profile,
-    analyze::detect,
+    analyze::{analyze, detect},
     args::Cli,
     logic::{avg_profiles, gen_data},
-};
-#[allow(unused)]
-use markov_chains::{
-    analyze::{analyze, write_line},
-    logic::list_add,
 };
 use std::fs;
 use std::time::Instant;
@@ -21,14 +16,14 @@ fn main() {
     let cli = Cli::parse();
 
     match cli.command {
-        markov_chains::args::Commands::Train { input, output } => {
+        phonotax::args::Commands::Train { input, output } => {
             let _ = fs::write(
                 output,
                 serde_json::to_string(&avg_profiles(gen_data(vowels, consonants, &input).unwrap()))
                     .unwrap(),
             );
         }
-        markov_chains::args::Commands::Detect {
+        phonotax::args::Commands::Detect {
             text,
             file,
             database,

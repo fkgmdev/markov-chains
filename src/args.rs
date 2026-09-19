@@ -2,7 +2,7 @@ use clap::{Parser, Subcommand};
 use std::path::PathBuf;
 
 #[derive(Parser)]
-#[command(name = "markov-chains")]
+#[command(name = "phonotax")]
 #[command(about = "Language detection tool", version = "1.0")]
 pub struct Cli {
     #[command(subcommand)]
